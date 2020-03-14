@@ -1,2 +1,4 @@
-
+*.ivf
+*.pkl
+*.pkl.model
 *.mkv
