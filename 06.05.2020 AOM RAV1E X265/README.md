@@ -1,4 +1,5 @@
-To open image on full, first click image, when right click 'open image in new tab' 
+To open image on full, first click image, when right click 'open image in new tab'.
+
 Please note that ffmpeg x265 were using whole cpu having load of ~1100% on 12 threads system.
 
 To match in terms of cpu utilization and speed, for Rav1e and AOM I was using [Av1an](https://github.com/master-of-zen/Av1an). 
