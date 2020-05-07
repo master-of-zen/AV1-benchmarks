@@ -12,14 +12,14 @@ import numpy as np
 
 # AOMS
 
-plt.plot([], [], ' ', label='1920*1080 Frames: 180 \n\nAOM git 06.05.2020 CQ range: cq 20-55, step 5')
+plt.plot([], [], ' ', label='Nature footage downscaled from 4k, 1920*1080 Frames: 180, \n\nAOM git 06.05.2020 CQ range: cq 20-55, step 5')
 with open('aom_git_nature.mkvdata.txt', 'r') as f:
         data = make_tuple(f.read())
 
 dt = []
 
-cmap = plt.get_cmap('Blues')
-colors = list(cmap(np.linspace(0.3,0.7, len(set([x[2] for x in data])))))
+cmap = plt.get_cmap('Purples')
+colors = list(cmap(np.linspace(0.4,0.8, len(set([x[2] for x in data])))))
 for cpu in sorted(set([x[2] for x in data])):
 
     dt = [x for x in data if x[2] == cpu]
@@ -47,6 +47,7 @@ for speed in sorted(set([x[2] for x in rav1e])):
     plt.plot(xnew, f(xnew), label=f'Rav1e {speed}, Average Time: {round(time)}',linestyle='dashed',linewidth=3, c=colors1.pop())
 
 # x265
+plt.plot([], [], ' ', label='FFmpeg 06.05.2020 x265: CRF range: 41 - 20, step 3')
 with open('x265_nature.mkvdata.txt') as f:
     x265 = make_tuple(f.read())
 
@@ -78,10 +79,8 @@ plt.yticks([x for x in range(30, 100, 1)])
 [plt.axhline(i, color='black', linewidth=1) for i in range(22, 100, 2)]
 plt.ylabel('Vmaf', size=20)
 plt.xlabel('Bitrate', size=20)
-plt.title('Encoders comparison: Rav1e 0.3.1 GIT, ', size=30)
+plt.title('AOM vs Rav1e vs x265 ', size=30)
 plt.legend(prop={'size': 20}, loc="lower right")
 plt.xlim(100, 3000)
-#plt.xlim(100, 2500)
-#plt.ylim((80, 100))
 plt.ylim((80, 100))
 plt.show()
