@@ -1,4 +1,4 @@
-To open the original image, right click on the image, and click view image.
+To open the original image, just click on it.
 
 Please note that ffmpeg x265 were using whole cpu at ~1100% utilization on 12 threads system.
 
