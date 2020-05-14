@@ -1,6 +1,6 @@
 To open the original image, just click on it.
 
-Please note that ffmpeg x265 were using whole cpu at ~1100% utilization on 12 threads system.
+Please note that ffmpeg x265 were using whole cpu at ~1100% utilization on 12 thread system.
 
 To match with x265 in terms of cpu utilization and speed, for AV1 and VP9 [Av1an](https://github.com/master-of-zen/Av1an) was used.
 
