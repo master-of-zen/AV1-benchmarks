@@ -1,0 +1,188 @@
+ Bd rate for speeds:  6 -> 5 
+
+Vmaf BD rate:    -4.579 %
+PSNR BD rate:    -4.28 %
+SSIM BD rate:    -3.757 %
+MS-SSIM BD rate: -3.955 %
+
+Time Diff: +12.939%
+
+Bd rate for speeds:  6 -> 4 
+
+Vmaf BD rate:    -11.607 %
+PSNR BD rate:    -10.787 %
+SSIM BD rate:    -10.231 %
+MS-SSIM BD rate: -10.758 %
+
+Time Diff: +91.099%
+
+Bd rate for speeds:  6 -> 3 
+
+Vmaf BD rate:    -12.981 %
+PSNR BD rate:    -14.315 %
+SSIM BD rate:    -12.741 %
+MS-SSIM BD rate: -14.208 %
+
+Time Diff: +183.096%
+
+Bd rate for speeds:  6 -> 2 
+
+Vmaf BD rate:    -15.707 %
+PSNR BD rate:    -18.066 %
+SSIM BD rate:    -16.88 %
+MS-SSIM BD rate: -18.282 %
+
+Time Diff: +599.813%
+
+Bd rate for speeds:  6 -> 1 
+
+Vmaf BD rate:    -16.93 %
+PSNR BD rate:    -19.524 %
+SSIM BD rate:    -18.398 %
+MS-SSIM BD rate: -19.654 %
+
+Time Diff: +962.154%
+
+Bd rate for speeds:  6 -> 0 
+
+Vmaf BD rate:    -18.085 %
+PSNR BD rate:    -20.131 %
+SSIM BD rate:    -19.291 %
+MS-SSIM BD rate: -20.521 %
+
+Time Diff: +2809.91%
+
+Bd rate for speeds:  5 -> 4 
+
+Vmaf BD rate:    -7.46 %
+PSNR BD rate:    -6.815 %
+SSIM BD rate:    -6.737 %
+MS-SSIM BD rate: -7.108 %
+
+Time Diff: +69.205%
+
+Bd rate for speeds:  5 -> 3 
+
+Vmaf BD rate:    -8.92 %
+PSNR BD rate:    -10.513 %
+SSIM BD rate:    -9.351 %
+MS-SSIM BD rate: -10.713 %
+
+Time Diff: +150.662%
+
+Bd rate for speeds:  5 -> 2 
+
+Vmaf BD rate:    -11.806 %
+PSNR BD rate:    -14.444 %
+SSIM BD rate:    -13.672 %
+MS-SSIM BD rate: -14.978 %
+
+Time Diff: +519.636%
+
+Bd rate for speeds:  5 -> 1 
+
+Vmaf BD rate:    -13.094 %
+PSNR BD rate:    -15.972 %
+SSIM BD rate:    -15.257 %
+MS-SSIM BD rate: -16.413 %
+
+Time Diff: +840.464%
+
+Bd rate for speeds:  5 -> 0 
+
+Vmaf BD rate:    -14.342 %
+PSNR BD rate:    -16.628 %
+SSIM BD rate:    -16.225 %
+MS-SSIM BD rate: -17.361 %
+
+Time Diff: +2476.523%
+
+Bd rate for speeds:  4 -> 3 
+
+Vmaf BD rate:    -1.69 %
+PSNR BD rate:    -3.957 %
+SSIM BD rate:    -2.915 %
+MS-SSIM BD rate: -3.902 %
+
+Time Diff: +48.141%
+
+Bd rate for speeds:  4 -> 2 
+
+Vmaf BD rate:    -4.962 %
+PSNR BD rate:    -8.166 %
+SSIM BD rate:    -7.674 %
+MS-SSIM BD rate: -8.494 %
+
+Time Diff: +266.204%
+
+Bd rate for speeds:  4 -> 1 
+
+Vmaf BD rate:    -6.381 %
+PSNR BD rate:    -9.794 %
+SSIM BD rate:    -9.392 %
+MS-SSIM BD rate: -10.035 %
+
+Time Diff: +455.812%
+
+Bd rate for speeds:  4 -> 0 
+
+Vmaf BD rate:    -7.816 %
+PSNR BD rate:    -10.463 %
+SSIM BD rate:    -10.45 %
+MS-SSIM BD rate: -11.013 %
+
+Time Diff: +1422.72%
+
+Bd rate for speeds:  3 -> 2 
+
+Vmaf BD rate:    -3.416 %
+PSNR BD rate:    -4.38 %
+SSIM BD rate:    -5.022 %
+MS-SSIM BD rate: -4.788 %
+
+Time Diff: +147.199%
+
+Bd rate for speeds:  3 -> 1 
+
+Vmaf BD rate:    -4.877 %
+PSNR BD rate:    -6.065 %
+SSIM BD rate:    -6.802 %
+MS-SSIM BD rate: -6.383 %
+
+Time Diff: +275.192%
+
+Bd rate for speeds:  3 -> 0 
+
+Vmaf BD rate:    -6.424 %
+PSNR BD rate:    -6.728 %
+SSIM BD rate:    -7.832 %
+MS-SSIM BD rate: -7.295 %
+
+Time Diff: +927.886%
+
+Bd rate for speeds:  2 -> 1 
+
+Vmaf BD rate:    -1.567 %
+PSNR BD rate:    -1.758 %
+SSIM BD rate:    -2.028 %
+MS-SSIM BD rate: -1.713 %
+
+Time Diff: +51.777%
+
+Bd rate for speeds:  2 -> 0 
+
+Vmaf BD rate:    -3.448 %
+PSNR BD rate:    -2.44 %
+SSIM BD rate:    -3.585 %
+MS-SSIM BD rate: -2.813 %
+
+Time Diff: +315.813%
+
+Bd rate for speeds:  1 -> 0 
+
+Vmaf BD rate:    -2.007 %
+PSNR BD rate:    -0.696 %
+SSIM BD rate:    -1.794 %
+MS-SSIM BD rate: -1.177 %
+
+Time Diff: +173.963%

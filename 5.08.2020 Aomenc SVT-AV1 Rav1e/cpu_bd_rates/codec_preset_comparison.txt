@@ -1,0 +1,71 @@
+ Bd rate for :  ('rav1e', 10) -> ('svt', 8) 
+
+Vmaf BD rate:    -18.973 %
+PSNR BD rate:    -43.094 %
+SSIM BD rate:    -16.071 %
+MS-SSIM BD rate: -28.58 %
+
+Time Diff: 34.071%
+
+Bd rate for :  ('svt', 8) -> ('rav1e', 6) 
+
+Vmaf BD rate:    -12.637 %
+PSNR BD rate:    11.078 %
+SSIM BD rate:    -13.954 %
+MS-SSIM BD rate: -4.973 %
+
+Time Diff: 28.465%
+
+Bd rate for :  ('rav1e', 6) -> ('svt', 4) 
+
+Vmaf BD rate:    -8.906 %
+PSNR BD rate:    -27.346 %
+SSIM BD rate:    -7.091 %
+MS-SSIM BD rate: -15.619 %
+
+Time Diff: 36.866%
+
+Bd rate for :  ('svt', 4) -> ('rav1e', 0) 
+
+Vmaf BD rate:    -5.766 %
+PSNR BD rate:    9.974 %
+SSIM BD rate:    -11.214 %
+MS-SSIM BD rate: -4.743 %
+
+Time Diff: 888.878%
+
+Bd rate for :  ('rav1e', 0) -> ('aom', 6) 
+
+Vmaf BD rate:    -1.571 %
+PSNR BD rate:    -8.311 %
+SSIM BD rate:    4.342 %
+MS-SSIM BD rate: 2.205 %
+
+Time Diff: -87.311%
+
+Bd rate for :  ('aom', 6) -> ('aom', 4) 
+
+Vmaf BD rate:    -11.607 %
+PSNR BD rate:    -10.787 %
+SSIM BD rate:    -10.231 %
+MS-SSIM BD rate: -10.758 %
+
+Time Diff: 91.099%
+
+Bd rate for :  ('aom', 4) -> ('svt', 0) 
+
+Vmaf BD rate:    1.13 %
+PSNR BD rate:    -7.291 %
+SSIM BD rate:    2.367 %
+MS-SSIM BD rate: -2.73 %
+
+Time Diff: 890.196%
+
+Bd rate for :  ('svt', 0) -> ('aom', 0) 
+
+Vmaf BD rate:    -8.188 %
+PSNR BD rate:    -3.389 %
+SSIM BD rate:    -11.311 %
+MS-SSIM BD rate: -7.985 %
+
+Time Diff: 53.78%
