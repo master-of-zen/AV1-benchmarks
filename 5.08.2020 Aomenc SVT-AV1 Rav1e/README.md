@@ -432,4 +432,80 @@ MS-SSIM BD rate: -7.985 %
 
 Time Diff: 53.78%
 ```
+## BD rates compared to Aomenc preset 0:
+```
+Bd rate for :  Aomenc, 0 -> Aomenc, 4
+
+Vmaf BD rate:    8.478 %
+PSNR BD rate:    11.685 %
+SSIM BD rate:    11.669 %
+MS-SSIM BD rate: 12.376 %
+
+Time Diff: -93.433%
+
+Bd rate for :  Aomenc, 0 -> Aomenc, 6
+
+Vmaf BD rate:    22.077 %
+PSNR BD rate:    25.205 %
+SSIM BD rate:    23.902 %
+MS-SSIM BD rate: 25.82 %
+
+Time Diff: -96.563%
+
+Bd rate for :  Aomenc, 0 -> SVT-AV1, 0 
+
+Vmaf BD rate:    8.919 %
+PSNR BD rate:    3.508 %
+SSIM BD rate:    12.753 %
+MS-SSIM BD rate: 8.678 %
+
+Time Diff: -34.972%
+
+Bd rate for :  Aomenc, 0 -> SVT-AV1, 4
+
+Vmaf BD rate:    33.201 %
+PSNR BD rate:    23.894 %
+SSIM BD rate:    30.958 %
+MS-SSIM BD rate: 27.338 %
+
+Time Diff: -97.261%
+
+Bd rate for :  Aomenc, 0 -> SVT-AV1, 8
+
+Vmaf BD rate:    67.079 %
+PSNR BD rate:    53.872 %
+SSIM BD rate:    55.756 %
+MS-SSIM BD rate: 55.905 %
+
+Time Diff: -98.442%
+
+Bd rate for :  Aomenc, 0 -> Rav1e, 0
+
+Vmaf BD rate:    23.846 %
+PSNR BD rate:    35.316 %
+SSIM BD rate:    19.069 %
+MS-SSIM BD rate: 22.327 %
+
+Time Diff: -72.918%
+
+Bd rate for :  Aomenc, 0 -> Rav1e, 6
+
+Vmaf BD rate:    41.699 %
+PSNR BD rate:    68.332 %
+SSIM BD rate:    44.0 %
+MS-SSIM BD rate: 51.82 %
+
+Time Diff: -97.999%
+
+Bd rate for :  Aomenc, 0 -> Rav1e, 10
+
+Vmaf BD rate:    98.978 %
+PSNR BD rate:    165.065 %
+SSIM BD rate:    104.107 %
+MS-SSIM BD rate: 127.355 %
+
+Time Diff: -98.838%
+```
+
+
 Thanks for attention :)
