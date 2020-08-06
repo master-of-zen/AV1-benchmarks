@@ -36,13 +36,14 @@ if __name__ == "__main__":
     
     aom_data = [x for x in data if x[0] == 'aom']
     rav1e_data = [x for x in data if x[0] == 'rav1e']
-    svt_data = [x for x in data if x[0] == 'svt']
-   
+    svt_data = [x for x in data if x[0] == 'svt-av1']
+    
+    codecs = sorted(list(set([x[0] for x in data])))
+    codecs = [x.upper() for x in codecs]
+    print(codecs)
     for metric, place in [('VMAF', 5), ('PSNR', 6), ('SSIM', 7), ('MS-SSIM', 8)]:
     
         plt.plot([], [], ' ', label='Dota 2 xiph.org footage\n 1920*1080 Frames: 180, 6 different scenes')
-        plt.plot([], [], ' ', label='Aomenc Git 03.08.2020, CQ range 60-20 ')
-        
         plot_range(aom_data, 'Blues', 'Aomenc', place)
         plot_range(svt_data, 'Reds', 'SVT', place)
         plot_range(rav1e_data, 'Greens', 'Rav1e', place)
@@ -52,15 +53,19 @@ if __name__ == "__main__":
         
         if metric in ('VMAF', 'PSNR'): 
             plt.yticks([x for x in range(0, 101, 1)], fontsize =28)
+            [plt.axhline(i, color='grey', linewidth=0.5) for i in range(1, 100, 2)]
+            [plt.axhline(i, color='black', linewidth=1) for i in range(0, 100, 2)]
         else:
-            plt.subplots_adjust(left=0.1, right=0.9, top=0.9, bottom=0.1)
+            [plt.axhline(i/1000, color='grey', linewidth=0.5) for i in range(61, 1000, 2)]
+            [plt.axhline(i/1000, color='black', linewidth=1) for i in range(62, 1000, 2)]
+            plt.yticks([x/1000 for x in range(0, 1000, 1)], fontsize =28)
+
+        plt.subplots_adjust(left=0.05, right=0.9, top=0.9, bottom=0.1)
 
         [plt.axvline(i, color='grey', linewidth=0.3) for i in range(0, 40000, 500)]
-        [plt.axhline(i, color='grey', linewidth=0.5) for i in range(21, 100, 2)]
-        [plt.axhline(i, color='black', linewidth=1) for i in range(22, 100, 2)]
-        plt.ylabel('Vmaf', size=24)
+        plt.ylabel(metric.capitalize(), size=32)
         plt.xlabel('Bit rate', size=24)
-        plt.title(f"Aomenc vs Rav1e vs SVT-AV1, latest git 03.08.2020 {metric}", size=28)
+        plt.title(f"{' vs '.join(codecs)}, latest git 03.08.2020 {metric}", size=28)
         plt.legend(prop={'size': 19}, loc="lower right")
         
         # low_xlim = min([x[4] for x in data])
