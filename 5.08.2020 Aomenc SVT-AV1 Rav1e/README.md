@@ -22,11 +22,11 @@ BD-rates for presets:
 
 What are BD rates?
 
-    BD-Rate. The Bjontegaard rate difference, also known as BD-rate, allows the measurement of the bitrate reduction offered by a codec or codec feature, while maintaining the same quality as measured by objective metrics.
+> BD-Rate. The Bjontegaard rate difference, also known as BD-rate, allows the measurement of the bitrate reduction offered by a codec or codec feature, while maintaining the same quality as measured by objective metrics.
 
 So next comparison reads like:
 
-    By switching from aomenc preset from cpu-used 6 to cpu-used 5 we need -N % bit rate (negative means we save bit rate - efficiency improves) to get same quality in objective metric Y.
+> By switching from aomenc preset from cpu-used 6 to cpu-used 5 we need -N % bit rate (negative means we save bit rate - efficiency improves) to get same quality in objective metric Y.
 
 ```
 Bd rate for speeds:  6 -> 5 
@@ -83,9 +83,12 @@ MS-SSIM BD rate: -1.177 %
 
 
 Time Diff: +173.963
+```
 
-Fastest/Optimal/Slowest preset comparison:
 
+## Fastest/Optimal/Slowest preset comparison:
+
+```
 Bd rate for speeds:  6 -> 4 
 
 Vmaf BD rate:    -11.607 %
@@ -114,7 +117,8 @@ SSIM
 r/AV1 - AV1 Encoders Comparison
 MS-SSIM
 r/AV1 - AV1 Encoders Comparison
-BD-rates for presets:
+
+## BD-rates for presets:
 
 ```
 Bd rate for speeds:  8 -> 7 
@@ -188,9 +192,11 @@ SSIM BD rate:    -0.288 %
 MS-SSIM BD rate: -0.419 %
 
 Time Diff: +29.831%.
+```
 
-Fastest/Optimal/Slowest preset comparison:
+## Fastest/Optimal/Slowest preset comparison:
 
+```
 Bd rate for speeds:  8 -> 4 
 
 Vmaf BD rate:    -20.568 %
@@ -310,9 +316,11 @@ SSIM BD rate:    -10.606 %
 MS-SSIM BD rate: -10.783 %
 
 Time Diff: +404.139
+```
 
-Fastest/Optimal/Slowest preset comparison:
+## Fastest/Optimal/Slowest preset comparison:
 
+```
 Bd rate for speeds:  10 -> 6 
 
 Vmaf BD rate:    -29.108 %
@@ -349,7 +357,7 @@ Presets compared from most unefficient to most efficient.
 
 Next comparison reads like:
 
-    By switching from Rav1e preset 10 to SVT-AV1 preset 8 need -N % bit rate (negative means we save bit rate - efficiency improves) to get same quality in objective metric Y.
+> By switching from Rav1e preset 10 to SVT-AV1 preset 8 need -N % bit rate (negative means we save bit rate - efficiency improves) to get same quality in objective metric Y.
 
 ```
 Bd rate for :  Rav1e, 10 -> SVT-AV1, 8 
