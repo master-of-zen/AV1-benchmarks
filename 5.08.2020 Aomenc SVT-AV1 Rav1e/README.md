@@ -9,18 +9,18 @@ All test material and scripts that were used for benchmark and processing data a
 For testing dota2 footage from xiph.org was used. (As It contain a lot of movement and small details, big contrast ranges within scenes and require a lot of bitrate to be encoded at decent quality)
 
 All encoders were working in 8 bit mode.
-Aomenc presets comparison:
-Vmaf:
+# Aomenc presets comparison:
+## Vmaf:
+![](https://github.com/master-of-zen/AV1-benchmarks/blob/master/5.08.2020%20Aomenc%20SVT-AV1%20Rav1e/Plots/aom_vmaf.png)
+## PSNR:
+![](https://github.com/master-of-zen/AV1-benchmarks/blob/master/5.08.2020%20Aomenc%20SVT-AV1%20Rav1e/Plots/aom_psnr.png)
+## SSIM:
+![](https://github.com/master-of-zen/AV1-benchmarks/blob/master/5.08.2020%20Aomenc%20SVT-AV1%20Rav1e/Plots/aom_ssim.png)
+## MS-SSIM
+![](https://github.com/master-of-zen/AV1-benchmarks/blob/master/5.08.2020%20Aomenc%20SVT-AV1%20Rav1e/Plots/aom_mssim.png)
+## BD-rates for presets:
 
-PSNR:
-
-SSIM:
-
-MS-SSIM
-
-BD-rates for presets:
-
-What are BD rates?
+### What are BD rates?
 
 > BD-Rate. The Bjontegaard rate difference, also known as BD-rate, allows the measurement of the bitrate reduction offered by a codec or codec feature, while maintaining the same quality as measured by objective metrics.
 
@@ -108,15 +108,15 @@ MS-SSIM BD rate: -11.013 %
 Time Diff: +1422.72
 ```
 
-SVT-AV1 presets comparison:
-VMAF:
-r/AV1 - AV1 Encoders Comparison
-PSNR:
-r/AV1 - AV1 Encoders Comparison
-SSIM
-r/AV1 - AV1 Encoders Comparison
-MS-SSIM
-r/AV1 - AV1 Encoders Comparison
+# SVT-AV1 presets comparison:
+## VMAF:
+![](https://github.com/master-of-zen/AV1-benchmarks/blob/master/5.08.2020%20Aomenc%20SVT-AV1%20Rav1e/Plots/svt_vmaf.png)
+## PSNR:
+![](https://github.com/master-of-zen/AV1-benchmarks/blob/master/5.08.2020%20Aomenc%20SVT-AV1%20Rav1e/Plots/svt_psrn.png)
+## SSIM
+![](https://github.com/master-of-zen/AV1-benchmarks/blob/master/5.08.2020%20Aomenc%20SVT-AV1%20Rav1e/Plots/svt_ssim.png)
+## MS-SSIM
+![](https://github.com/master-of-zen/AV1-benchmarks/blob/master/5.08.2020%20Aomenc%20SVT-AV1%20Rav1e/Plots/svt_mssim.png)
 
 ## BD-rates for presets:
 
@@ -216,16 +216,16 @@ MS-SSIM BD rate: -14.861 %
 Time Diff: +2274.425%
 ```
 
-Rav1e presets comparison:
-VMAF:
-r/AV1 - AV1 Encoders Comparison
-PSNR:
-r/AV1 - AV1 Encoders Comparison
-SSIM:
-r/AV1 - AV1 Encoders Comparison
-MS-SSIM:
-r/AV1 - AV1 Encoders Comparison
-BD-rates for presets:
+# Rav1e presets comparison:
+## VMAF:
+![](https://github.com/master-of-zen/AV1-benchmarks/blob/master/5.08.2020%20Aomenc%20SVT-AV1%20Rav1e/Plots/rav1e_vmaf.png)
+## PSNR:
+![](https://github.com/master-of-zen/AV1-benchmarks/blob/master/5.08.2020%20Aomenc%20SVT-AV1%20Rav1e/Plots/rav1e_psnr.png)
+## SSIM:
+![](https://github.com/master-of-zen/AV1-benchmarks/blob/master/5.08.2020%20Aomenc%20SVT-AV1%20Rav1e/Plots/rav1e_ssim.png)
+## MS-SSIM:
+![](https://github.com/master-of-zen/AV1-benchmarks/blob/master/5.08.2020%20Aomenc%20SVT-AV1%20Rav1e/Plots/rav1e_mssim.png)
+#### BD-rates for presets:
 ```
 Bd rate for speeds:  10 -> 9 
 
@@ -342,7 +342,7 @@ Time Diff: +1253.436
 
 Encoders comparison:
 VMAF:
-r/AV1 - AV1 Encoders Comparison
+
 PSNR:
 r/AV1 - AV1 Encoders Comparison
 SSIM:
