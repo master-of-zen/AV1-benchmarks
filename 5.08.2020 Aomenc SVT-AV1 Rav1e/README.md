@@ -340,20 +340,20 @@ MS-SSIM BD rate: -19.945 %
 Time Diff: +1253.436
 ```
 
-Encoders comparison:
-VMAF:
+# Encoders comparison:
+## VMAF:
+![](https://github.com/master-of-zen/AV1-benchmarks/blob/master/5.08.2020%20Aomenc%20SVT-AV1%20Rav1e/Plots/all_vmaf.png)
+## PSNR:
+![](https://github.com/master-of-zen/AV1-benchmarks/blob/master/5.08.2020%20Aomenc%20SVT-AV1%20Rav1e/Plots/all_psnr.png)
+## SSIM:
+![](https://github.com/master-of-zen/AV1-benchmarks/blob/master/5.08.2020%20Aomenc%20SVT-AV1%20Rav1e/Plots/all_ssim.png)
+## MS-SSIM:
+![](https://github.com/master-of-zen/AV1-benchmarks/blob/master/5.08.2020%20Aomenc%20SVT-AV1%20Rav1e/Plots/all_mssim.png)
+## Encoders presets comparison:
 
-PSNR:
-r/AV1 - AV1 Encoders Comparison
-SSIM:
-r/AV1 - AV1 Encoders Comparison
-MS-SSIM:
-r/AV1 - AV1 Encoders Comparison
-Encoders presets comparison:
+### For preset comparsion I selected aom presets (0,4,6), for SVT-AV1 (0,4,8), Rav1e(0,6,10).
 
-For preset comparsion I selected aom presets (0,4,6), for SVT-AV1 (0,4,8), Rav1e(0,6,10).
-
-Presets compared from most unefficient to most efficient.
+### Presets compared from most unefficient to most efficient.
 
 Next comparison reads like:
 
