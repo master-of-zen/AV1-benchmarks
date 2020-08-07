@@ -26,7 +26,7 @@ All encoders were working in 8 bit mode.
 
 So next comparison reads like:
 
-> By switching from aomenc preset from cpu-used 6 to cpu-used 5 we need -N % bit rate (negative means we save bit rate - efficiency improves) to get same quality in objective metric Y.
+> By switching from aomenc preset cpu-used 6 to cpu-used 5 we need -N % bit rate (negative means we save bit rate - efficiency improves) to get same quality in objective metric Y.
 
 ```
 Bd rate for speeds:  6 -> 5 
