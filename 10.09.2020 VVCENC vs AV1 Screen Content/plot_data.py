@@ -44,7 +44,7 @@ if __name__ == "__main__":
     print(codecs)
     for metric, place in [('VMAF', 5), ('PSNR', 6), ('SSIM', 7), ('MS-SSIM', 8)]:
 
-        plt.plot([], [], ' ', label='Blah Blah')
+        plt.plot([], [], ' ', label='Xiph 1080p 50fps Camera Footage "park_joy"')
         plot_range(aom_data, 'Blues', 'Aomenc', place)
         plot_range(vvc_data, 'Reds', 'VVC', place)
         # Plot
@@ -65,7 +65,7 @@ if __name__ == "__main__":
         [plt.axvline(i, color='grey', linewidth=0.3) for i in range(0, 40000, 500)]
         plt.ylabel(metric.capitalize(), size=32)
         plt.xlabel('Bit rate', size=24)
-        plt.title(f"{' vs '.join(codecs)}, latest git 03.08.2020 {metric}", size=28)
+        plt.title(f"{' vs '.join(codecs)}, latest git 10.09.2020 {metric}", size=28)
         plt.legend(prop={'size': 19}, loc="lower right")
 
         # low_xlim = min([x[4] for x in data])
