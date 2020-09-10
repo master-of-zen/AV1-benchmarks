@@ -1,7 +1,7 @@
 j=0
 
 for cpu in 6 5 4 3 2 1 0 ; do
-    for i in 60 55 50 45 40 35 30 25; do
+    for i in 63 58 53 48 43 38 ; do
         temp_folder=folder-$j
 cat <<EOF
         runtime=\$(av1an -fmt yuv420p10le -p 1 -s 0 -i "${1}" -v " --threads=12 --end-usage=q --cq-level=$i --cpu-used=${cpu} " --temp aom${cpu}_${i} -o "aom${cpu}_${i}" | grep Finished | cut -d' ' -f2 | tr -d '[:alpha:]'); \

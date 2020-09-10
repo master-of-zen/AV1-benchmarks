@@ -16,7 +16,6 @@ def plot_range(data, color, encoder, m_place):
     for cpu in cpus:
         dt = [x for x in data if x[2] == cpu]
         x = sorted([round(x[4])for x in dt])
-        print(x)
         y = sorted([x[m_place] for x in dt])
         time = sum([x[1] for x in dt])/len(dt)
         f = interpolate.interp1d(x, y, kind='quadratic')
@@ -45,21 +44,21 @@ if __name__ == "__main__":
     print(codecs)
     for metric, place in [('VMAF', 5), ('PSNR', 6), ('SSIM', 7), ('MS-SSIM', 8)]:
 
-        plt.plot([], [], ' ', label='Dota 2 xiph.org footage\n 1920*1080 Frames: 180, 6 different scenes')
+        plt.plot([], [], ' ', label='Blah Blah')
         plot_range(aom_data, 'Blues', 'Aomenc', place)
         plot_range(vvc_data, 'Reds', 'VVC', place)
         # Plot
 
-        plt.xticks([x for x in range(0, 20000, 500)], [int(x) for x in range(0, 20000, 500) ],fontsize=26)
+        plt.xticks([x for x in range(0, 40000, 1000)], [int(x) for x in range(0, 40) ],fontsize=26)
 
         if metric in ('VMAF', 'PSNR'):
             plt.yticks([x for x in range(0, 101, 1)], fontsize =28)
             [plt.axhline(i, color='grey', linewidth=0.5) for i in range(1, 100, 2)]
             [plt.axhline(i, color='black', linewidth=1) for i in range(0, 100, 2)]
         else:
-            [plt.axhline(i/1000, color='grey', linewidth=0.5) for i in range(61, 1000, 2)]
-            [plt.axhline(i/1000, color='black', linewidth=1) for i in range(62, 1000, 2)]
-            plt.yticks([x/1000 for x in range(0, 1000, 1)], fontsize =28)
+            [plt.axhline(i/100, color='grey', linewidth=0.5) for i in range(61, 1000, 2)]
+            [plt.axhline(i/100, color='black', linewidth=1) for i in range(62, 1000, 2)]
+            plt.yticks([x/100 for x in range(0, 1000, 1)], fontsize =28)
 
         plt.subplots_adjust(left=0.05, right=0.9, top=0.9, bottom=0.1)
 
@@ -71,7 +70,7 @@ if __name__ == "__main__":
 
         # low_xlim = min([x[4] for x in data])
         low_ylim = min([x[place] for x in data])
-        plt.xlim(500,10000)
+        plt.xlim(3000,30000)
 
         if metric == 'VMAF':
             high_ylim = 100
