@@ -1,0 +1,25 @@
+ VVC faster -> VVC fast
+
+Vmaf    BD rate: -12.233 %
+PSNR    BD rate: -7.562 %
+SSIM    BD rate: -7.117 %
+MS-SSIM BD rate: -8.811 %
+Time Diff:        +20.2 %
+
+
+VVC fast -> VVC medium
+
+Vmaf    BD rate: -3.349 %
+PSNR    BD rate: -4.461 %
+SSIM    BD rate: -4.543 %
+MS-SSIM BD rate: -5.202 %
+Time Diff:        +92.6 %
+
+
+VVC medium -> VVC slow
+
+Vmaf    BD rate: -4.88 %
+PSNR    BD rate: -4.852 %
+SSIM    BD rate: -4.134 %
+MS-SSIM BD rate: -3.799 %
+Time Diff:        +196.5 %
