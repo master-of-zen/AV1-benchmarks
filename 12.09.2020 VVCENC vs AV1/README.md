@@ -3,7 +3,8 @@
 [Aomenc GIT 12.10.2020 as AV1](https://aomedia.googlesource.com/aom/)
 
 [VVenc 0.1.0.0 as VVC](https://github.com/fraunhoferhhi/vvenc)
-Disclamer
+
+## Disclamer
 
 This is the first release of VVenC. A lot of functionality is not included/restricted and will of change in future updates.
 
