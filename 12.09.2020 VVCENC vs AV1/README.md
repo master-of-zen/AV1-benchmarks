@@ -20,7 +20,7 @@ park_joy 500 frames sequence from [Xiph Media](https://media.xiph.org/video/derf
 
 ## VMAF:
 ![vvc_vmaf]
-## PSRN:
+## PSNR:
 ![vvc_psnr]
 ## SSIM:
 ![vvc_ssim]
@@ -70,7 +70,7 @@ Time Diff:        +196.5 %
 
 ## VMAF:
 ![av1_vmaf]
-## PSRN:
+## PSNR:
 ![av1_psnr]
 ## SSIM:
 ![av1_ssim]
@@ -128,7 +128,7 @@ Time Diff:        +45.4 %
 
 ## VMAF:
 ![comparisson_vmaf]
-## PSRN:
+## PSNR:
 ![comparisson_psnr]
 ## SSIM:
 ![comparisson_ssim]
