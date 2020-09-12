@@ -30,13 +30,13 @@ park_joy 500 frames sequence from [Xiph Media](https://media.xiph.org/video/derf
 
 ### What are BD-Rates?
 
-    BD-Rate. The Bjontegaard rate difference, also known as BD-rate, allows the measurement of the bitrate reduction offered by a codec or codec feature, while maintaining the same quality as measured by objective metrics.
+> BD-Rate. The Bjontegaard rate difference, also known as BD-rate, allows the measurement of the bitrate reduction offered by a codec or codec feature, while maintaining the same quality as measured by objective metrics.
 
 So the next comparison reads like:
 
-    By switching from VVC preset Faster to Fast we need -N % bit rate (negative means we save bit rate - efficiency improves) to get same quality in objective metric Y.
+> By switching from VVC preset Faster to Fast we need -N % bit rate (negative means we save bit rate - efficiency improves) to get same quality in objective metric Y.
 
-    As result we need less bit rate to achieve same qualty, or achieve better quality at same bit rate.
+> As result we need less bit rate to achieve same qualty, or achieve better quality at same bit rate.
 ```
 VVC faster -> VVC fast
 
