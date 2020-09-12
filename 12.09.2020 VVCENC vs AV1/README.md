@@ -19,12 +19,13 @@ park_joy 500 frames sequence from [Xiph Media](https://media.xiph.org/video/derf
 ## VVC presets comparison:
 
 ## VMAF:
-
+![vvc_vmaf]
 ## PSRN:
-
+![vvc_psnr]
 ## SSIM:
-
+![vvc_ssim]
 ## MS-SSIM:
+![vvc_mssim]
 
 ## BD-Rates:
 
@@ -67,13 +68,14 @@ Time Diff:        +196.5 %
 
 ## AV1 presets comparison:
 
-# VMAF:
-
+## VMAF:
+![av1_vmaf]
 ## PSRN:
-
+![av1_psnr]
 ## SSIM:
-
+![av1_ssim]
 ## MS-SSIM:
+![av1_mssim]
 
 ## BD-Rates:
 ```
@@ -125,13 +127,13 @@ Time Diff:        +45.4 %
 ## VVC vs AV1 comparison:
 
 ## VMAF:
-
+![comparisson_vmaf]
 ## PSRN:
-
+![comparisson_psnr]
 ## SSIM:
-
+![comparisson_ssim]
 ## MS-SSIM:
-
+![comparisson_mssim]
 ## BD-Rates (Sorted from worst to best):
 ```
 AOM 6 -> VVC faster
@@ -216,3 +218,19 @@ Time Diff:        +45.4 %
 ```
 
 :)
+
+[vvc_vmaf]: https://github.com/master-of-zen/AV1-benchmarks/blob/master/12.09.2020%20VVCENC%20vs%20AV1/Results/VVC/VMAF.png
+[vvc_psnr]: https://github.com/master-of-zen/AV1-benchmarks/blob/master/12.09.2020%20VVCENC%20vs%20AV1/Results/VVC/PSNR.png
+[vvc_ssim]: https://github.com/master-of-zen/AV1-benchmarks/blob/master/12.09.2020%20VVCENC%20vs%20AV1/Results/VVC/SSIM.png
+[vvc_mssim]: https://github.com/master-of-zen/AV1-benchmarks/blob/master/12.09.2020%20VVCENC%20vs%20AV1/Results/VVC/MS-SSIM.png
+
+
+[av1_vmaf]: https://github.com/master-of-zen/AV1-benchmarks/blob/master/12.09.2020%20VVCENC%20vs%20AV1/Results/AV1/VMAF.png
+[av1_psnr]: https://github.com/master-of-zen/AV1-benchmarks/blob/master/12.09.2020%20VVCENC%20vs%20AV1/Results/AV1/PSNR.png
+[av1_ssim]: https://github.com/master-of-zen/AV1-benchmarks/blob/master/12.09.2020%20VVCENC%20vs%20AV1/Results/AV1/SSIM.png
+[av1_mssim]: https://github.com/master-of-zen/AV1-benchmarks/blob/master/12.09.2020%20VVCENC%20vs%20AV1/Results/AV1/MS-SSIM.png
+
+[comparisson_vmaf]: https://github.com/master-of-zen/AV1-benchmarks/blob/master/12.09.2020%20VVCENC%20vs%20AV1/Results/AV1%20vs%20VVC/VMAF.png
+[comparisson_psnr]: https://github.com/master-of-zen/AV1-benchmarks/blob/master/12.09.2020%20VVCENC%20vs%20AV1/Results/AV1%20vs%20VVC/PSNR.png
+[comparisson_ssim]: https://github.com/master-of-zen/AV1-benchmarks/blob/master/12.09.2020%20VVCENC%20vs%20AV1/Results/AV1%20vs%20VVC/SSIM.png
+[comparisson_mssim]: https://github.com/master-of-zen/AV1-benchmarks/blob/master/12.09.2020%20VVCENC%20vs%20AV1/Results/AV1%20vs%20VVC/MS-SSIM.png
