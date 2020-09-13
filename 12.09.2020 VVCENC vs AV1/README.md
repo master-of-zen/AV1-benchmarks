@@ -1,8 +1,14 @@
 # Comparison of AV1 and VVenC (Versatile Video Encoder)
 
 [Aomenc GIT 12.10.2020 as AV1](https://aomedia.googlesource.com/aom/)
+Encoding settings:
+`av1an -fmt yuv420p10le -p 1 -s 0 -v " --threads=12 --end-usage=q --cq-level=N --cpu-used=N`
+Where N is variable
 
 [VVenc 0.1.0.0 as VVC](https://github.com/fraunhoferhhi/vvenc)
+Encoding settings:
+`vvencapp --size 1920x1080 --format yuv420_10 --preset N --qp N --threads 12`
+Where N is variable
 
 ## Disclamer
 
