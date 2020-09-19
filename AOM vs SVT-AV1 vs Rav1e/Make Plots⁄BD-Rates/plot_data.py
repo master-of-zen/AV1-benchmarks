@@ -41,15 +41,19 @@ if __name__ == "__main__":
             data.extend(dt)
 
     aom_data = [x for x in data if x[0] == 'aom']
-    vvc_data = [x for x in data if x[0] == 'vvc']
-
+    svt_data = [x for x in data if x[0] == 'svt']
+    rav1e_data = [x for x in data if x[0] == 'rav1e']
+    print(len(aom_data))
+    print(len(svt_data))
+    print(len(rav1e_data))
     codecs = sorted(list(set([x[0] for x in data])))
     codecs = [x.upper() for x in codecs]
     for metric, place in [('VMAF', 5), ('PSNR', 6), ('SSIM', 7), ('MS-SSIM', 8)]:
 
         plt.plot([], [], ' ', label='Xiph 1080p 50fps Camera footage "park_joy"\n500 frames')
         plot_range(aom_data, 'Blues', 'Aomenc', place)
-        plot_range(vvc_data, 'Reds', 'VVC', place)
+        plot_range(svt_data, 'Reds', 'SVT-AV1', place)
+        plot_range(rav1e_data, 'Greens', 'Rav1e', place)
         # Plot
 
         plt.xticks([x for x in range(0, 40000, 1000)], [int(x) for x in range(0, 40) ],fontsize=26)

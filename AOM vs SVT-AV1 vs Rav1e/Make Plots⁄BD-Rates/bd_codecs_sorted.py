@@ -153,8 +153,7 @@ def bd_sort(data, c1, p1, c2, p2):
     bd4 = round(bdrate(mssim1, mssim0), 3)
 
     # ssim aand ms-ssim weight changed to avoid locking
-    summary = bd1  + bd2 + bd3 * 1.1 + bd4 * 1.1
-    print(c1, p1, c2, p2, summary)
+    summary = bd1
 
     return 0 <= summary * 100
 
