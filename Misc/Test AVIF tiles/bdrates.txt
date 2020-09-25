@@ -1,0 +1,2105 @@
+File:  04.png
+Tile Column:       0
+Tile Row:          1
+PSNR:              0.228%
+SSIM:              0.38%
+DSSIM:             0.26%
+SSIMULACRA:        0.412%
+BUTTERAUGLI:       -3.572%
+BUTTERAUGLI_3NORM: 0.724%
+VMAF:              -0.067%
+Enc time:          99.7%
+Dec time:          108.3%
+
+Tile Column:       0
+Tile Row:          2
+PSNR:              0.647%
+SSIM:              0.655%
+DSSIM:             0.468%
+SSIMULACRA:        0.4%
+BUTTERAUGLI:       0.771%
+BUTTERAUGLI_3NORM: 2.22%
+VMAF:              0.583%
+Enc time:          81.9%
+Dec time:          100.0%
+
+Tile Column:       0
+Tile Row:          3
+PSNR:              0.973%
+SSIM:              1.019%
+DSSIM:             1.094%
+SSIMULACRA:        0.537%
+BUTTERAUGLI:       1.189%
+BUTTERAUGLI_3NORM: 2.238%
+VMAF:              1.323%
+Enc time:          84.2%
+Dec time:          100.3%
+
+Tile Column:       0
+Tile Row:          4
+PSNR:              0.973%
+SSIM:              1.019%
+DSSIM:             1.094%
+SSIMULACRA:        0.537%
+BUTTERAUGLI:       1.189%
+BUTTERAUGLI_3NORM: 2.238%
+VMAF:              1.323%
+Enc time:          76.7%
+Dec time:          99.5%
+
+Tile Column:       0
+Tile Row:          5
+PSNR:              0.973%
+SSIM:              1.019%
+DSSIM:             1.094%
+SSIMULACRA:        0.537%
+BUTTERAUGLI:       1.189%
+BUTTERAUGLI_3NORM: 2.238%
+VMAF:              1.323%
+Enc time:          74.5%
+Dec time:          97.1%
+
+Tile Column:       1
+Tile Row:          0
+PSNR:              0.315%
+SSIM:              0.324%
+DSSIM:             0.167%
+SSIMULACRA:        0.935%
+BUTTERAUGLI:       -3.171%
+BUTTERAUGLI_3NORM: 1.265%
+VMAF:              -0.115%
+Enc time:          77.6%
+Dec time:          95.4%
+
+Tile Column:       1
+Tile Row:          1
+PSNR:              0.626%
+SSIM:              0.7%
+DSSIM:             0.437%
+SSIMULACRA:        1.006%
+BUTTERAUGLI:       -3.753%
+BUTTERAUGLI_3NORM: 1.455%
+VMAF:              0.29%
+Enc time:          69.8%
+Dec time:          97.3%
+
+Tile Column:       1
+Tile Row:          2
+PSNR:              1.175%
+SSIM:              1.277%
+DSSIM:             1.038%
+SSIMULACRA:        1.535%
+BUTTERAUGLI:       -1.578%
+BUTTERAUGLI_3NORM: 1.908%
+VMAF:              0.703%
+Enc time:          68.0%
+Dec time:          95.8%
+
+Tile Column:       1
+Tile Row:          3
+PSNR:              1.65%
+SSIM:              1.869%
+DSSIM:             1.793%
+SSIMULACRA:        1.882%
+BUTTERAUGLI:       -0.92%
+BUTTERAUGLI_3NORM: 2.551%
+VMAF:              1.433%
+Enc time:          65.5%
+Dec time:          96.2%
+
+Tile Column:       1
+Tile Row:          4
+PSNR:              1.65%
+SSIM:              1.869%
+DSSIM:             1.793%
+SSIMULACRA:        1.882%
+BUTTERAUGLI:       -0.92%
+BUTTERAUGLI_3NORM: 2.551%
+VMAF:              1.433%
+Enc time:          64.2%
+Dec time:          98.6%
+
+Tile Column:       1
+Tile Row:          5
+PSNR:              1.65%
+SSIM:              1.869%
+DSSIM:             1.793%
+SSIMULACRA:        1.882%
+BUTTERAUGLI:       -0.92%
+BUTTERAUGLI_3NORM: 2.551%
+VMAF:              1.433%
+Enc time:          63.9%
+Dec time:          94.2%
+
+Tile Column:       2
+Tile Row:          0
+PSNR:              0.559%
+SSIM:              0.842%
+DSSIM:             0.665%
+SSIMULACRA:        1.11%
+BUTTERAUGLI:       5.284%
+BUTTERAUGLI_3NORM: 3.16%
+VMAF:              0.241%
+Enc time:          77.1%
+Dec time:          95.6%
+
+Tile Column:       2
+Tile Row:          1
+PSNR:              0.959%
+SSIM:              1.313%
+DSSIM:             1.181%
+SSIMULACRA:        1.443%
+BUTTERAUGLI:       3.194%
+BUTTERAUGLI_3NORM: 2.093%
+VMAF:              0.663%
+Enc time:          67.4%
+Dec time:          94.7%
+
+Tile Column:       2
+Tile Row:          2
+PSNR:              1.546%
+SSIM:              1.88%
+DSSIM:             1.694%
+SSIMULACRA:        1.941%
+BUTTERAUGLI:       -1.181%
+BUTTERAUGLI_3NORM: 2.073%
+VMAF:              1.039%
+Enc time:          64.7%
+Dec time:          94.1%
+
+Tile Column:       2
+Tile Row:          3
+PSNR:              2.111%
+SSIM:              2.653%
+DSSIM:             2.503%
+SSIMULACRA:        2.265%
+BUTTERAUGLI:       -0.519%
+BUTTERAUGLI_3NORM: 2.99%
+VMAF:              1.981%
+Enc time:          63.9%
+Dec time:          94.6%
+
+Tile Column:       2
+Tile Row:          4
+PSNR:              2.111%
+SSIM:              2.653%
+DSSIM:             2.503%
+SSIMULACRA:        2.265%
+BUTTERAUGLI:       -0.519%
+BUTTERAUGLI_3NORM: 2.99%
+VMAF:              1.981%
+Enc time:          63.6%
+Dec time:          95.4%
+
+Tile Column:       2
+Tile Row:          5
+PSNR:              2.111%
+SSIM:              2.653%
+DSSIM:             2.503%
+SSIMULACRA:        2.265%
+BUTTERAUGLI:       -0.519%
+BUTTERAUGLI_3NORM: 2.99%
+VMAF:              1.981%
+Enc time:          64.0%
+Dec time:          95.5%
+
+Tile Column:       3
+Tile Row:          0
+PSNR:              1.214%
+SSIM:              1.659%
+DSSIM:             1.559%
+SSIMULACRA:        1.966%
+BUTTERAUGLI:       5.109%
+BUTTERAUGLI_3NORM: 3.112%
+VMAF:              1.294%
+Enc time:          66.8%
+Dec time:          95.3%
+
+Tile Column:       3
+Tile Row:          1
+PSNR:              1.631%
+SSIM:              2.286%
+DSSIM:             2.138%
+SSIMULACRA:        2.493%
+BUTTERAUGLI:       -1.787%
+BUTTERAUGLI_3NORM: 3.133%
+VMAF:              1.228%
+Enc time:          63.2%
+Dec time:          94.0%
+
+Tile Column:       3
+Tile Row:          2
+PSNR:              2.274%
+SSIM:              2.884%
+DSSIM:             2.618%
+SSIMULACRA:        2.893%
+BUTTERAUGLI:       3.899%
+BUTTERAUGLI_3NORM: 3.709%
+VMAF:              1.792%
+Enc time:          62.7%
+Dec time:          93.6%
+
+Tile Column:       3
+Tile Row:          3
+PSNR:              2.967%
+SSIM:              3.986%
+DSSIM:             3.562%
+SSIMULACRA:        3.309%
+BUTTERAUGLI:       3.281%
+BUTTERAUGLI_3NORM: 4.421%
+VMAF:              2.916%
+Enc time:          62.8%
+Dec time:          94.1%
+
+Tile Column:       3
+Tile Row:          4
+PSNR:              2.967%
+SSIM:              3.986%
+DSSIM:             3.562%
+SSIMULACRA:        3.309%
+BUTTERAUGLI:       3.281%
+BUTTERAUGLI_3NORM: 4.421%
+VMAF:              2.916%
+Enc time:          62.4%
+Dec time:          95.8%
+
+Tile Column:       3
+Tile Row:          5
+PSNR:              2.967%
+SSIM:              3.986%
+DSSIM:             3.562%
+SSIMULACRA:        3.309%
+BUTTERAUGLI:       3.281%
+BUTTERAUGLI_3NORM: 4.421%
+VMAF:              2.916%
+Enc time:          62.4%
+Dec time:          94.0%
+
+Tile Column:       4
+Tile Row:          0
+PSNR:              2.236%
+SSIM:              3.181%
+DSSIM:             2.955%
+SSIMULACRA:        3.244%
+BUTTERAUGLI:       11.932%
+BUTTERAUGLI_3NORM: 5.923%
+VMAF:              1.859%
+Enc time:          68.8%
+Dec time:          94.8%
+
+Tile Column:       4
+Tile Row:          1
+PSNR:              2.724%
+SSIM:              3.758%
+DSSIM:             3.231%
+SSIMULACRA:        3.889%
+BUTTERAUGLI:       11.448%
+BUTTERAUGLI_3NORM: 7.047%
+VMAF:              1.883%
+Enc time:          64.5%
+Dec time:          93.7%
+
+Tile Column:       4
+Tile Row:          2
+PSNR:              3.523%
+SSIM:              4.698%
+DSSIM:             4.148%
+SSIMULACRA:        4.324%
+BUTTERAUGLI:       10.102%
+BUTTERAUGLI_3NORM: 7.322%
+VMAF:              2.407%
+Enc time:          62.5%
+Dec time:          94.4%
+
+Tile Column:       4
+Tile Row:          3
+PSNR:              4.442%
+SSIM:              5.736%
+DSSIM:             5.205%
+SSIMULACRA:        5.245%
+BUTTERAUGLI:       9.727%
+BUTTERAUGLI_3NORM: 8.114%
+VMAF:              3.527%
+Enc time:          63.0%
+Dec time:          96.8%
+
+Tile Column:       4
+Tile Row:          4
+PSNR:              4.442%
+SSIM:              5.736%
+DSSIM:             5.205%
+SSIMULACRA:        5.245%
+BUTTERAUGLI:       9.727%
+BUTTERAUGLI_3NORM: 8.114%
+VMAF:              3.527%
+Enc time:          63.5%
+Dec time:          97.0%
+
+Tile Column:       4
+Tile Row:          5
+PSNR:              4.442%
+SSIM:              5.736%
+DSSIM:             5.205%
+SSIMULACRA:        5.245%
+BUTTERAUGLI:       9.727%
+BUTTERAUGLI_3NORM: 8.114%
+VMAF:              3.527%
+Enc time:          63.0%
+Dec time:          94.9%
+
+Tile Column:       5
+Tile Row:          0
+PSNR:              2.236%
+SSIM:              3.181%
+DSSIM:             2.955%
+SSIMULACRA:        3.244%
+BUTTERAUGLI:       11.932%
+BUTTERAUGLI_3NORM: 5.923%
+VMAF:              1.859%
+Enc time:          68.7%
+Dec time:          93.9%
+
+Tile Column:       5
+Tile Row:          1
+PSNR:              2.724%
+SSIM:              3.758%
+DSSIM:             3.231%
+SSIMULACRA:        3.889%
+BUTTERAUGLI:       11.448%
+BUTTERAUGLI_3NORM: 7.047%
+VMAF:              1.883%
+Enc time:          64.5%
+Dec time:          94.7%
+
+Tile Column:       5
+Tile Row:          2
+PSNR:              3.523%
+SSIM:              4.698%
+DSSIM:             4.148%
+SSIMULACRA:        4.324%
+BUTTERAUGLI:       10.102%
+BUTTERAUGLI_3NORM: 7.322%
+VMAF:              2.407%
+Enc time:          62.7%
+Dec time:          95.0%
+
+Tile Column:       5
+Tile Row:          3
+PSNR:              4.442%
+SSIM:              5.736%
+DSSIM:             5.205%
+SSIMULACRA:        5.245%
+BUTTERAUGLI:       9.727%
+BUTTERAUGLI_3NORM: 8.114%
+VMAF:              3.527%
+Enc time:          63.1%
+Dec time:          95.4%
+
+Tile Column:       5
+Tile Row:          4
+PSNR:              4.442%
+SSIM:              5.736%
+DSSIM:             5.205%
+SSIMULACRA:        5.245%
+BUTTERAUGLI:       9.727%
+BUTTERAUGLI_3NORM: 8.114%
+VMAF:              3.527%
+Enc time:          63.0%
+Dec time:          95.0%
+
+Tile Column:       5
+Tile Row:          5
+PSNR:              4.442%
+SSIM:              5.736%
+DSSIM:             5.205%
+SSIMULACRA:        5.245%
+BUTTERAUGLI:       9.727%
+BUTTERAUGLI_3NORM: 8.114%
+VMAF:              3.527%
+Enc time:          63.0%
+Dec time:          95.4%
+
+File:  03.jpg
+Tile Column:       0
+Tile Row:          1
+PSNR:              0.565%
+SSIM:              0.925%
+DSSIM:             0.989%
+SSIMULACRA:        0.925%
+BUTTERAUGLI:       -0.215%
+BUTTERAUGLI_3NORM: 0.984%
+VMAF:              0.821%
+Enc time:          81.9%
+Dec time:          95.8%
+
+Tile Column:       0
+Tile Row:          2
+PSNR:              1.336%
+SSIM:              1.572%
+DSSIM:             1.865%
+SSIMULACRA:        2.157%
+BUTTERAUGLI:       3.32%
+BUTTERAUGLI_3NORM: 1.967%
+VMAF:              1.753%
+Enc time:          65.2%
+Dec time:          98.5%
+
+Tile Column:       0
+Tile Row:          3
+PSNR:              1.905%
+SSIM:              2.208%
+DSSIM:             2.318%
+SSIMULACRA:        2.407%
+BUTTERAUGLI:       5.379%
+BUTTERAUGLI_3NORM: 2.008%
+VMAF:              2.596%
+Enc time:          62.9%
+Dec time:          108.2%
+
+Tile Column:       0
+Tile Row:          4
+PSNR:              3.61%
+SSIM:              4.354%
+DSSIM:             4.557%
+SSIMULACRA:        4.743%
+BUTTERAUGLI:       7.6%
+BUTTERAUGLI_3NORM: 4.025%
+VMAF:              4.542%
+Enc time:          59.1%
+Dec time:          96.7%
+
+Tile Column:       0
+Tile Row:          5
+PSNR:              3.61%
+SSIM:              4.354%
+DSSIM:             4.557%
+SSIMULACRA:        4.743%
+BUTTERAUGLI:       7.6%
+BUTTERAUGLI_3NORM: 4.025%
+VMAF:              4.542%
+Enc time:          59.3%
+Dec time:          98.0%
+
+Tile Column:       1
+Tile Row:          0
+PSNR:              0.708%
+SSIM:              0.093%
+DSSIM:             0.768%
+SSIMULACRA:        1.88%
+BUTTERAUGLI:       -0.926%
+BUTTERAUGLI_3NORM: 1.305%
+VMAF:              0.671%
+Enc time:          95.6%
+Dec time:          98.5%
+
+Tile Column:       1
+Tile Row:          1
+PSNR:              1.346%
+SSIM:              1.105%
+DSSIM:             1.809%
+SSIMULACRA:        2.296%
+BUTTERAUGLI:       2.784%
+BUTTERAUGLI_3NORM: 1.696%
+VMAF:              2.14%
+Enc time:          78.0%
+Dec time:          95.8%
+
+Tile Column:       1
+Tile Row:          2
+PSNR:              2.266%
+SSIM:              2.425%
+DSSIM:             2.771%
+SSIMULACRA:        3.283%
+BUTTERAUGLI:       11.442%
+BUTTERAUGLI_3NORM: 3.766%
+VMAF:              2.799%
+Enc time:          58.5%
+Dec time:          96.6%
+
+Tile Column:       1
+Tile Row:          3
+PSNR:              2.866%
+SSIM:              3.588%
+DSSIM:             3.476%
+SSIMULACRA:        3.834%
+BUTTERAUGLI:       -3.126%
+BUTTERAUGLI_3NORM: 3.064%
+VMAF:              3.703%
+Enc time:          56.3%
+Dec time:          102.1%
+
+Tile Column:       1
+Tile Row:          4
+PSNR:              4.688%
+SSIM:              5.65%
+DSSIM:             5.774%
+SSIMULACRA:        5.903%
+BUTTERAUGLI:       -0.565%
+BUTTERAUGLI_3NORM: 5.294%
+VMAF:              5.88%
+Enc time:          55.7%
+Dec time:          97.6%
+
+Tile Column:       1
+Tile Row:          5
+PSNR:              4.688%
+SSIM:              5.65%
+DSSIM:             5.774%
+SSIMULACRA:        5.903%
+BUTTERAUGLI:       -0.565%
+BUTTERAUGLI_3NORM: 5.294%
+VMAF:              5.88%
+Enc time:          55.2%
+Dec time:          98.0%
+
+Tile Column:       2
+Tile Row:          0
+PSNR:              1.1%
+SSIM:              0.526%
+DSSIM:             1.159%
+SSIMULACRA:        1.498%
+BUTTERAUGLI:       -5.546%
+BUTTERAUGLI_3NORM: 0.809%
+VMAF:              1.132%
+Enc time:          94.9%
+Dec time:          98.4%
+
+Tile Column:       2
+Tile Row:          1
+PSNR:              1.969%
+SSIM:              1.711%
+DSSIM:             2.252%
+SSIMULACRA:        2.871%
+BUTTERAUGLI:       -4.943%
+BUTTERAUGLI_3NORM: 2.457%
+VMAF:              1.935%
+Enc time:          74.8%
+Dec time:          101.2%
+
+Tile Column:       2
+Tile Row:          2
+PSNR:              2.868%
+SSIM:              3.039%
+DSSIM:             3.315%
+SSIMULACRA:        3.883%
+BUTTERAUGLI:       11.214%
+BUTTERAUGLI_3NORM: 5.338%
+VMAF:              3.153%
+Enc time:          59.9%
+Dec time:          101.3%
+
+Tile Column:       2
+Tile Row:          3
+PSNR:              3.685%
+SSIM:              4.574%
+DSSIM:             4.331%
+SSIMULACRA:        5.099%
+BUTTERAUGLI:       -2.673%
+BUTTERAUGLI_3NORM: 4.266%
+VMAF:              3.968%
+Enc time:          63.3%
+Dec time:          103.0%
+
+Tile Column:       2
+Tile Row:          4
+PSNR:              5.794%
+SSIM:              6.692%
+DSSIM:             6.873%
+SSIMULACRA:        7.325%
+BUTTERAUGLI:       13.268%
+BUTTERAUGLI_3NORM: 8.178%
+VMAF:              6.952%
+Enc time:          60.0%
+Dec time:          99.8%
+
+Tile Column:       2
+Tile Row:          5
+PSNR:              5.794%
+SSIM:              6.692%
+DSSIM:             6.873%
+SSIMULACRA:        7.325%
+BUTTERAUGLI:       13.268%
+BUTTERAUGLI_3NORM: 8.178%
+VMAF:              6.952%
+Enc time:          58.1%
+Dec time:          100.2%
+
+Tile Column:       3
+Tile Row:          0
+PSNR:              2.333%
+SSIM:              2.483%
+DSSIM:             3.037%
+SSIMULACRA:        2.062%
+BUTTERAUGLI:       6.231%
+BUTTERAUGLI_3NORM: 3.223%
+VMAF:              2.369%
+Enc time:          64.4%
+Dec time:          99.0%
+
+Tile Column:       3
+Tile Row:          1
+PSNR:              3.137%
+SSIM:              3.679%
+DSSIM:             4.09%
+SSIMULACRA:        3.193%
+BUTTERAUGLI:       7.264%
+BUTTERAUGLI_3NORM: 4.632%
+VMAF:              3.745%
+Enc time:          59.5%
+Dec time:          101.0%
+
+Tile Column:       3
+Tile Row:          2
+PSNR:              4.265%
+SSIM:              5.017%
+DSSIM:             5.29%
+SSIMULACRA:        5.395%
+BUTTERAUGLI:       2.906%
+BUTTERAUGLI_3NORM: 5.87%
+VMAF:              4.791%
+Enc time:          58.2%
+Dec time:          100.7%
+
+Tile Column:       3
+Tile Row:          3
+PSNR:              5.26%
+SSIM:              6.51%
+DSSIM:             6.601%
+SSIMULACRA:        6.645%
+BUTTERAUGLI:       -0.249%
+BUTTERAUGLI_3NORM: 6.936%
+VMAF:              6.382%
+Enc time:          58.0%
+Dec time:          99.6%
+
+Tile Column:       3
+Tile Row:          4
+PSNR:              7.669%
+SSIM:              9.275%
+DSSIM:             9.4%
+SSIMULACRA:        10.242%
+BUTTERAUGLI:       2.556%
+BUTTERAUGLI_3NORM: 9.559%
+VMAF:              9.178%
+Enc time:          57.2%
+Dec time:          98.1%
+
+Tile Column:       3
+Tile Row:          5
+PSNR:              7.669%
+SSIM:              9.275%
+DSSIM:             9.4%
+SSIMULACRA:        10.242%
+BUTTERAUGLI:       2.556%
+BUTTERAUGLI_3NORM: 9.559%
+VMAF:              9.178%
+Enc time:          57.6%
+Dec time:          102.2%
+
+Tile Column:       4
+Tile Row:          0
+PSNR:              2.333%
+SSIM:              2.483%
+DSSIM:             3.037%
+SSIMULACRA:        2.062%
+BUTTERAUGLI:       6.231%
+BUTTERAUGLI_3NORM: 3.223%
+VMAF:              2.369%
+Enc time:          61.5%
+Dec time:          96.5%
+
+Tile Column:       4
+Tile Row:          1
+PSNR:              3.137%
+SSIM:              3.679%
+DSSIM:             4.09%
+SSIMULACRA:        3.193%
+BUTTERAUGLI:       7.264%
+BUTTERAUGLI_3NORM: 4.632%
+VMAF:              3.745%
+Enc time:          56.8%
+Dec time:          96.9%
+
+Tile Column:       4
+Tile Row:          2
+PSNR:              4.265%
+SSIM:              5.017%
+DSSIM:             5.29%
+SSIMULACRA:        5.395%
+BUTTERAUGLI:       2.906%
+BUTTERAUGLI_3NORM: 5.87%
+VMAF:              4.791%
+Enc time:          57.1%
+Dec time:          96.5%
+
+Tile Column:       4
+Tile Row:          3
+PSNR:              5.26%
+SSIM:              6.51%
+DSSIM:             6.601%
+SSIMULACRA:        6.645%
+BUTTERAUGLI:       -0.249%
+BUTTERAUGLI_3NORM: 6.936%
+VMAF:              6.382%
+Enc time:          58.6%
+Dec time:          105.5%
+
+Tile Column:       4
+Tile Row:          4
+PSNR:              7.669%
+SSIM:              9.275%
+DSSIM:             9.4%
+SSIMULACRA:        10.242%
+BUTTERAUGLI:       2.556%
+BUTTERAUGLI_3NORM: 9.559%
+VMAF:              9.178%
+Enc time:          65.8%
+Dec time:          104.4%
+
+Tile Column:       4
+Tile Row:          5
+PSNR:              7.669%
+SSIM:              9.275%
+DSSIM:             9.4%
+SSIMULACRA:        10.242%
+BUTTERAUGLI:       2.556%
+BUTTERAUGLI_3NORM: 9.559%
+VMAF:              9.178%
+Enc time:          64.3%
+Dec time:          110.1%
+
+Tile Column:       5
+Tile Row:          0
+PSNR:              2.333%
+SSIM:              2.483%
+DSSIM:             3.037%
+SSIMULACRA:        2.062%
+BUTTERAUGLI:       6.231%
+BUTTERAUGLI_3NORM: 3.223%
+VMAF:              2.369%
+Enc time:          67.2%
+Dec time:          98.3%
+
+Tile Column:       5
+Tile Row:          1
+PSNR:              3.137%
+SSIM:              3.679%
+DSSIM:             4.09%
+SSIMULACRA:        3.193%
+BUTTERAUGLI:       7.264%
+BUTTERAUGLI_3NORM: 4.632%
+VMAF:              3.745%
+Enc time:          65.3%
+Dec time:          105.4%
+
+Tile Column:       5
+Tile Row:          2
+PSNR:              4.265%
+SSIM:              5.017%
+DSSIM:             5.29%
+SSIMULACRA:        5.395%
+BUTTERAUGLI:       2.906%
+BUTTERAUGLI_3NORM: 5.87%
+VMAF:              4.791%
+Enc time:          60.7%
+Dec time:          99.1%
+
+Tile Column:       5
+Tile Row:          3
+PSNR:              5.26%
+SSIM:              6.51%
+DSSIM:             6.601%
+SSIMULACRA:        6.645%
+BUTTERAUGLI:       -0.249%
+BUTTERAUGLI_3NORM: 6.936%
+VMAF:              6.382%
+Enc time:          68.0%
+Dec time:          106.6%
+
+Tile Column:       5
+Tile Row:          4
+PSNR:              7.669%
+SSIM:              9.275%
+DSSIM:             9.4%
+SSIMULACRA:        10.242%
+BUTTERAUGLI:       2.556%
+BUTTERAUGLI_3NORM: 9.559%
+VMAF:              9.178%
+Enc time:          65.4%
+Dec time:          103.8%
+
+Tile Column:       5
+Tile Row:          5
+PSNR:              7.669%
+SSIM:              9.275%
+DSSIM:             9.4%
+SSIMULACRA:        10.242%
+BUTTERAUGLI:       2.556%
+BUTTERAUGLI_3NORM: 9.559%
+VMAF:              9.178%
+Enc time:          61.7%
+Dec time:          104.6%
+
+File:  07.png
+Tile Column:       0
+Tile Row:          1
+PSNR:              1.341%
+SSIM:              -0.376%
+DSSIM:             0.895%
+SSIMULACRA:        1.205%
+BUTTERAUGLI:       5.569%
+BUTTERAUGLI_3NORM: -10.425%
+VMAF:              0.994%
+Enc time:          77.7%
+Dec time:          99.3%
+
+Tile Column:       0
+Tile Row:          2
+PSNR:              2.583%
+SSIM:              3.232%
+DSSIM:             3.445%
+SSIMULACRA:        2.576%
+BUTTERAUGLI:       8.432%
+BUTTERAUGLI_3NORM: 169.048%
+VMAF:              3.064%
+Enc time:          69.8%
+Dec time:          106.1%
+
+Tile Column:       0
+Tile Row:          3
+PSNR:              4.29%
+SSIM:              2.415%
+DSSIM:             4.339%
+SSIMULACRA:        4.019%
+BUTTERAUGLI:       17.811%
+BUTTERAUGLI_3NORM: -4.842%
+VMAF:              4.417%
+Enc time:          65.9%
+Dec time:          99.0%
+
+Tile Column:       0
+Tile Row:          4
+PSNR:              4.29%
+SSIM:              2.415%
+DSSIM:             4.339%
+SSIMULACRA:        4.019%
+BUTTERAUGLI:       17.811%
+BUTTERAUGLI_3NORM: -4.842%
+VMAF:              4.417%
+Enc time:          65.5%
+Dec time:          103.4%
+
+Tile Column:       0
+Tile Row:          5
+PSNR:              4.29%
+SSIM:              2.415%
+DSSIM:             4.339%
+SSIMULACRA:        4.019%
+BUTTERAUGLI:       17.811%
+BUTTERAUGLI_3NORM: -4.842%
+VMAF:              4.417%
+Enc time:          65.6%
+Dec time:          101.2%
+
+Tile Column:       1
+Tile Row:          0
+PSNR:              1.001%
+SSIM:              0.033%
+DSSIM:             1.222%
+SSIMULACRA:        1.28%
+BUTTERAUGLI:       -0.931%
+BUTTERAUGLI_3NORM: -11.482%
+VMAF:              1.128%
+Enc time:          88.1%
+Dec time:          100.5%
+
+Tile Column:       1
+Tile Row:          1
+PSNR:              2.328%
+SSIM:              1.801%
+DSSIM:             2.836%
+SSIMULACRA:        2.68%
+BUTTERAUGLI:       -82.512%
+BUTTERAUGLI_3NORM: -5.634%
+VMAF:              2.498%
+Enc time:          70.9%
+Dec time:          99.2%
+
+Tile Column:       1
+Tile Row:          2
+PSNR:              3.986%
+SSIM:              2.979%
+DSSIM:             4.661%
+SSIMULACRA:        3.935%
+BUTTERAUGLI:       20.962%
+BUTTERAUGLI_3NORM: 4.064%
+VMAF:              4.917%
+Enc time:          61.0%
+Dec time:          99.9%
+
+Tile Column:       1
+Tile Row:          3
+PSNR:              6.129%
+SSIM:              4.495%
+DSSIM:             6.407%
+SSIMULACRA:        5.92%
+BUTTERAUGLI:       19.798%
+BUTTERAUGLI_3NORM: 1.743%
+VMAF:              6.601%
+Enc time:          61.9%
+Dec time:          100.4%
+
+Tile Column:       1
+Tile Row:          4
+PSNR:              6.129%
+SSIM:              4.495%
+DSSIM:             6.407%
+SSIMULACRA:        5.92%
+BUTTERAUGLI:       19.798%
+BUTTERAUGLI_3NORM: 1.743%
+VMAF:              6.601%
+Enc time:          62.2%
+Dec time:          101.4%
+
+Tile Column:       1
+Tile Row:          5
+PSNR:              6.129%
+SSIM:              4.495%
+DSSIM:             6.407%
+SSIMULACRA:        5.92%
+BUTTERAUGLI:       19.798%
+BUTTERAUGLI_3NORM: 1.743%
+VMAF:              6.601%
+Enc time:          62.1%
+Dec time:          102.3%
+
+Tile Column:       2
+Tile Row:          0
+PSNR:              2.0%
+SSIM:              1.487%
+DSSIM:             2.652%
+SSIMULACRA:        2.507%
+BUTTERAUGLI:       332.564%
+BUTTERAUGLI_3NORM: -13.405%
+VMAF:              2.507%
+Enc time:          80.5%
+Dec time:          100.2%
+
+Tile Column:       2
+Tile Row:          1
+PSNR:              3.372%
+SSIM:              2.447%
+DSSIM:             4.266%
+SSIMULACRA:        3.72%
+BUTTERAUGLI:       8.065%
+BUTTERAUGLI_3NORM: -10.291%
+VMAF:              3.987%
+Enc time:          62.3%
+Dec time:          103.8%
+
+Tile Column:       2
+Tile Row:          2
+PSNR:              4.776%
+SSIM:              2.7%
+DSSIM:             4.654%
+SSIMULACRA:        4.437%
+BUTTERAUGLI:       13.642%
+BUTTERAUGLI_3NORM: -10.316%
+VMAF:              4.764%
+Enc time:          61.4%
+Dec time:          114.7%
+
+Tile Column:       2
+Tile Row:          3
+PSNR:              7.199%
+SSIM:              4.523%
+DSSIM:             6.829%
+SSIMULACRA:        6.374%
+BUTTERAUGLI:       16.136%
+BUTTERAUGLI_3NORM: -7.671%
+VMAF:              7.628%
+Enc time:          64.0%
+Dec time:          101.3%
+
+Tile Column:       2
+Tile Row:          4
+PSNR:              7.199%
+SSIM:              4.523%
+DSSIM:             6.829%
+SSIMULACRA:        6.374%
+BUTTERAUGLI:       16.136%
+BUTTERAUGLI_3NORM: -7.671%
+VMAF:              7.628%
+Enc time:          64.1%
+Dec time:          107.7%
+
+Tile Column:       2
+Tile Row:          5
+PSNR:              7.199%
+SSIM:              4.523%
+DSSIM:             6.829%
+SSIMULACRA:        6.374%
+BUTTERAUGLI:       16.136%
+BUTTERAUGLI_3NORM: -7.671%
+VMAF:              7.628%
+Enc time:          64.5%
+Dec time:          98.7%
+
+Tile Column:       3
+Tile Row:          0
+PSNR:              3.9%
+SSIM:              1.544%
+DSSIM:             3.979%
+SSIMULACRA:        3.423%
+BUTTERAUGLI:       16.589%
+BUTTERAUGLI_3NORM: -1.254%
+VMAF:              4.174%
+Enc time:          68.1%
+Dec time:          106.9%
+
+Tile Column:       3
+Tile Row:          1
+PSNR:              5.746%
+SSIM:              3.741%
+DSSIM:             6.037%
+SSIMULACRA:        5.501%
+BUTTERAUGLI:       20.46%
+BUTTERAUGLI_3NORM: -1.174%
+VMAF:              6.23%
+Enc time:          64.5%
+Dec time:          102.8%
+
+Tile Column:       3
+Tile Row:          2
+PSNR:              7.13%
+SSIM:              3.965%
+DSSIM:             6.556%
+SSIMULACRA:        6.449%
+BUTTERAUGLI:       3794.936%
+BUTTERAUGLI_3NORM: 4.882%
+VMAF:              7.551%
+Enc time:          62.3%
+Dec time:          100.7%
+
+Tile Column:       3
+Tile Row:          3
+PSNR:              9.975%
+SSIM:              6.962%
+DSSIM:             9.301%
+SSIMULACRA:        9.052%
+BUTTERAUGLI:       3.101%
+BUTTERAUGLI_3NORM: 2.585%
+VMAF:              10.576%
+Enc time:          67.6%
+Dec time:          102.7%
+
+Tile Column:       3
+Tile Row:          4
+PSNR:              9.975%
+SSIM:              6.962%
+DSSIM:             9.301%
+SSIMULACRA:        9.052%
+BUTTERAUGLI:       3.101%
+BUTTERAUGLI_3NORM: 2.585%
+VMAF:              10.576%
+Enc time:          67.8%
+Dec time:          103.1%
+
+Tile Column:       3
+Tile Row:          5
+PSNR:              9.975%
+SSIM:              6.962%
+DSSIM:             9.301%
+SSIMULACRA:        9.052%
+BUTTERAUGLI:       3.101%
+BUTTERAUGLI_3NORM: 2.585%
+VMAF:              10.576%
+Enc time:          67.8%
+Dec time:          103.6%
+
+Tile Column:       4
+Tile Row:          0
+PSNR:              3.9%
+SSIM:              1.544%
+DSSIM:             3.979%
+SSIMULACRA:        3.423%
+BUTTERAUGLI:       16.589%
+BUTTERAUGLI_3NORM: -1.254%
+VMAF:              4.174%
+Enc time:          68.1%
+Dec time:          99.4%
+
+Tile Column:       4
+Tile Row:          1
+PSNR:              5.746%
+SSIM:              3.741%
+DSSIM:             6.037%
+SSIMULACRA:        5.501%
+BUTTERAUGLI:       20.46%
+BUTTERAUGLI_3NORM: -1.174%
+VMAF:              6.23%
+Enc time:          64.9%
+Dec time:          98.3%
+
+Tile Column:       4
+Tile Row:          2
+PSNR:              7.13%
+SSIM:              3.965%
+DSSIM:             6.556%
+SSIMULACRA:        6.449%
+BUTTERAUGLI:       3794.936%
+BUTTERAUGLI_3NORM: 4.882%
+VMAF:              7.551%
+Enc time:          62.4%
+Dec time:          103.5%
+
+Tile Column:       4
+Tile Row:          3
+PSNR:              9.975%
+SSIM:              6.962%
+DSSIM:             9.301%
+SSIMULACRA:        9.052%
+BUTTERAUGLI:       3.101%
+BUTTERAUGLI_3NORM: 2.585%
+VMAF:              10.576%
+Enc time:          67.7%
+Dec time:          102.9%
+
+Tile Column:       4
+Tile Row:          4
+PSNR:              9.975%
+SSIM:              6.962%
+DSSIM:             9.301%
+SSIMULACRA:        9.052%
+BUTTERAUGLI:       3.101%
+BUTTERAUGLI_3NORM: 2.585%
+VMAF:              10.576%
+Enc time:          67.5%
+Dec time:          102.3%
+
+Tile Column:       4
+Tile Row:          5
+PSNR:              9.975%
+SSIM:              6.962%
+DSSIM:             9.301%
+SSIMULACRA:        9.052%
+BUTTERAUGLI:       3.101%
+BUTTERAUGLI_3NORM: 2.585%
+VMAF:              10.576%
+Enc time:          68.3%
+Dec time:          98.3%
+
+Tile Column:       5
+Tile Row:          0
+PSNR:              3.9%
+SSIM:              1.544%
+DSSIM:             3.979%
+SSIMULACRA:        3.423%
+BUTTERAUGLI:       16.589%
+BUTTERAUGLI_3NORM: -1.254%
+VMAF:              4.174%
+Enc time:          68.1%
+Dec time:          107.8%
+
+Tile Column:       5
+Tile Row:          1
+PSNR:              5.746%
+SSIM:              3.741%
+DSSIM:             6.037%
+SSIMULACRA:        5.501%
+BUTTERAUGLI:       20.46%
+BUTTERAUGLI_3NORM: -1.174%
+VMAF:              6.23%
+Enc time:          65.1%
+Dec time:          98.6%
+
+Tile Column:       5
+Tile Row:          2
+PSNR:              7.13%
+SSIM:              3.965%
+DSSIM:             6.556%
+SSIMULACRA:        6.449%
+BUTTERAUGLI:       3794.936%
+BUTTERAUGLI_3NORM: 4.882%
+VMAF:              7.551%
+Enc time:          62.0%
+Dec time:          103.7%
+
+Tile Column:       5
+Tile Row:          3
+PSNR:              9.975%
+SSIM:              6.962%
+DSSIM:             9.301%
+SSIMULACRA:        9.052%
+BUTTERAUGLI:       3.101%
+BUTTERAUGLI_3NORM: 2.585%
+VMAF:              10.576%
+Enc time:          67.3%
+Dec time:          101.5%
+
+Tile Column:       5
+Tile Row:          4
+PSNR:              9.975%
+SSIM:              6.962%
+DSSIM:             9.301%
+SSIMULACRA:        9.052%
+BUTTERAUGLI:       3.101%
+BUTTERAUGLI_3NORM: 2.585%
+VMAF:              10.576%
+Enc time:          67.3%
+Dec time:          98.3%
+
+Tile Column:       5
+Tile Row:          5
+PSNR:              9.975%
+SSIM:              6.962%
+DSSIM:             9.301%
+SSIMULACRA:        9.052%
+BUTTERAUGLI:       3.101%
+BUTTERAUGLI_3NORM: 2.585%
+VMAF:              10.576%
+Enc time:          68.3%
+Dec time:          99.7%
+
+File:  06.jpg
+Tile Column:       0
+Tile Row:          1
+PSNR:              1.561%
+SSIM:              1.731%
+DSSIM:             2.325%
+SSIMULACRA:        2.936%
+BUTTERAUGLI:       2.732%
+BUTTERAUGLI_3NORM: 2.464%
+VMAF:              0.255%
+Enc time:          62.0%
+Dec time:          101.3%
+
+Tile Column:       0
+Tile Row:          2
+PSNR:              1.561%
+SSIM:              1.731%
+DSSIM:             2.325%
+SSIMULACRA:        2.936%
+BUTTERAUGLI:       2.732%
+BUTTERAUGLI_3NORM: 2.464%
+VMAF:              0.255%
+Enc time:          61.8%
+Dec time:          102.3%
+
+Tile Column:       0
+Tile Row:          3
+PSNR:              1.561%
+SSIM:              1.731%
+DSSIM:             2.325%
+SSIMULACRA:        2.936%
+BUTTERAUGLI:       2.732%
+BUTTERAUGLI_3NORM: 2.464%
+VMAF:              0.255%
+Enc time:          62.0%
+Dec time:          103.2%
+
+Tile Column:       0
+Tile Row:          4
+PSNR:              1.561%
+SSIM:              1.731%
+DSSIM:             2.325%
+SSIMULACRA:        2.936%
+BUTTERAUGLI:       2.732%
+BUTTERAUGLI_3NORM: 2.464%
+VMAF:              0.255%
+Enc time:          62.0%
+Dec time:          101.7%
+
+Tile Column:       0
+Tile Row:          5
+PSNR:              1.561%
+SSIM:              1.731%
+DSSIM:             2.325%
+SSIMULACRA:        2.936%
+BUTTERAUGLI:       2.732%
+BUTTERAUGLI_3NORM: 2.464%
+VMAF:              0.255%
+Enc time:          62.0%
+Dec time:          100.8%
+
+Tile Column:       1
+Tile Row:          0
+PSNR:              1.47%
+SSIM:              1.225%
+DSSIM:             1.702%
+SSIMULACRA:        2.57%
+BUTTERAUGLI:       3.396%
+BUTTERAUGLI_3NORM: 2.364%
+VMAF:              -0.693%
+Enc time:          54.7%
+Dec time:          102.6%
+
+Tile Column:       1
+Tile Row:          1
+PSNR:              3.583%
+SSIM:              4.08%
+DSSIM:             5.144%
+SSIMULACRA:        5.392%
+BUTTERAUGLI:       0.558%
+BUTTERAUGLI_3NORM: 4.321%
+VMAF:              2.148%
+Enc time:          37.8%
+Dec time:          103.3%
+
+Tile Column:       1
+Tile Row:          2
+PSNR:              3.583%
+SSIM:              4.08%
+DSSIM:             5.144%
+SSIMULACRA:        5.392%
+BUTTERAUGLI:       0.558%
+BUTTERAUGLI_3NORM: 4.321%
+VMAF:              2.148%
+Enc time:          37.6%
+Dec time:          104.5%
+
+Tile Column:       1
+Tile Row:          3
+PSNR:              3.583%
+SSIM:              4.08%
+DSSIM:             5.144%
+SSIMULACRA:        5.392%
+BUTTERAUGLI:       0.558%
+BUTTERAUGLI_3NORM: 4.321%
+VMAF:              2.148%
+Enc time:          37.9%
+Dec time:          106.1%
+
+Tile Column:       1
+Tile Row:          4
+PSNR:              3.583%
+SSIM:              4.08%
+DSSIM:             5.144%
+SSIMULACRA:        5.392%
+BUTTERAUGLI:       0.558%
+BUTTERAUGLI_3NORM: 4.321%
+VMAF:              2.148%
+Enc time:          37.6%
+Dec time:          105.5%
+
+Tile Column:       1
+Tile Row:          5
+PSNR:              3.583%
+SSIM:              4.08%
+DSSIM:             5.144%
+SSIMULACRA:        5.392%
+BUTTERAUGLI:       0.558%
+BUTTERAUGLI_3NORM: 4.321%
+VMAF:              2.148%
+Enc time:          37.8%
+Dec time:          101.9%
+
+Tile Column:       2
+Tile Row:          0
+PSNR:              1.47%
+SSIM:              1.225%
+DSSIM:             1.702%
+SSIMULACRA:        2.57%
+BUTTERAUGLI:       3.396%
+BUTTERAUGLI_3NORM: 2.364%
+VMAF:              -0.693%
+Enc time:          54.8%
+Dec time:          105.4%
+
+Tile Column:       2
+Tile Row:          1
+PSNR:              3.583%
+SSIM:              4.08%
+DSSIM:             5.144%
+SSIMULACRA:        5.392%
+BUTTERAUGLI:       0.558%
+BUTTERAUGLI_3NORM: 4.321%
+VMAF:              2.148%
+Enc time:          38.6%
+Dec time:          111.6%
+
+Tile Column:       2
+Tile Row:          2
+PSNR:              3.583%
+SSIM:              4.08%
+DSSIM:             5.144%
+SSIMULACRA:        5.392%
+BUTTERAUGLI:       0.558%
+BUTTERAUGLI_3NORM: 4.321%
+VMAF:              2.148%
+Enc time:          37.7%
+Dec time:          106.3%
+
+Tile Column:       2
+Tile Row:          3
+PSNR:              3.583%
+SSIM:              4.08%
+DSSIM:             5.144%
+SSIMULACRA:        5.392%
+BUTTERAUGLI:       0.558%
+BUTTERAUGLI_3NORM: 4.321%
+VMAF:              2.148%
+Enc time:          37.7%
+Dec time:          106.2%
+
+Tile Column:       2
+Tile Row:          4
+PSNR:              3.583%
+SSIM:              4.08%
+DSSIM:             5.144%
+SSIMULACRA:        5.392%
+BUTTERAUGLI:       0.558%
+BUTTERAUGLI_3NORM: 4.321%
+VMAF:              2.148%
+Enc time:          37.7%
+Dec time:          103.8%
+
+Tile Column:       2
+Tile Row:          5
+PSNR:              3.583%
+SSIM:              4.08%
+DSSIM:             5.144%
+SSIMULACRA:        5.392%
+BUTTERAUGLI:       0.558%
+BUTTERAUGLI_3NORM: 4.321%
+VMAF:              2.148%
+Enc time:          38.0%
+Dec time:          109.0%
+
+Tile Column:       3
+Tile Row:          0
+PSNR:              1.47%
+SSIM:              1.225%
+DSSIM:             1.702%
+SSIMULACRA:        2.57%
+BUTTERAUGLI:       3.396%
+BUTTERAUGLI_3NORM: 2.364%
+VMAF:              -0.693%
+Enc time:          54.3%
+Dec time:          101.3%
+
+Tile Column:       3
+Tile Row:          1
+PSNR:              3.583%
+SSIM:              4.08%
+DSSIM:             5.144%
+SSIMULACRA:        5.392%
+BUTTERAUGLI:       0.558%
+BUTTERAUGLI_3NORM: 4.321%
+VMAF:              2.148%
+Enc time:          38.0%
+Dec time:          103.5%
+
+Tile Column:       3
+Tile Row:          2
+PSNR:              3.583%
+SSIM:              4.08%
+DSSIM:             5.144%
+SSIMULACRA:        5.392%
+BUTTERAUGLI:       0.558%
+BUTTERAUGLI_3NORM: 4.321%
+VMAF:              2.148%
+Enc time:          37.8%
+Dec time:          103.5%
+
+Tile Column:       3
+Tile Row:          3
+PSNR:              3.583%
+SSIM:              4.08%
+DSSIM:             5.144%
+SSIMULACRA:        5.392%
+BUTTERAUGLI:       0.558%
+BUTTERAUGLI_3NORM: 4.321%
+VMAF:              2.148%
+Enc time:          37.6%
+Dec time:          106.7%
+
+Tile Column:       3
+Tile Row:          4
+PSNR:              3.583%
+SSIM:              4.08%
+DSSIM:             5.144%
+SSIMULACRA:        5.392%
+BUTTERAUGLI:       0.558%
+BUTTERAUGLI_3NORM: 4.321%
+VMAF:              2.148%
+Enc time:          37.6%
+Dec time:          102.0%
+
+Tile Column:       3
+Tile Row:          5
+PSNR:              3.583%
+SSIM:              4.08%
+DSSIM:             5.144%
+SSIMULACRA:        5.392%
+BUTTERAUGLI:       0.558%
+BUTTERAUGLI_3NORM: 4.321%
+VMAF:              2.148%
+Enc time:          37.7%
+Dec time:          104.5%
+
+Tile Column:       4
+Tile Row:          0
+PSNR:              1.47%
+SSIM:              1.225%
+DSSIM:             1.702%
+SSIMULACRA:        2.57%
+BUTTERAUGLI:       3.396%
+BUTTERAUGLI_3NORM: 2.364%
+VMAF:              -0.693%
+Enc time:          54.5%
+Dec time:          101.9%
+
+Tile Column:       4
+Tile Row:          1
+PSNR:              3.583%
+SSIM:              4.08%
+DSSIM:             5.144%
+SSIMULACRA:        5.392%
+BUTTERAUGLI:       0.558%
+BUTTERAUGLI_3NORM: 4.321%
+VMAF:              2.148%
+Enc time:          37.5%
+Dec time:          106.7%
+
+Tile Column:       4
+Tile Row:          2
+PSNR:              3.583%
+SSIM:              4.08%
+DSSIM:             5.144%
+SSIMULACRA:        5.392%
+BUTTERAUGLI:       0.558%
+BUTTERAUGLI_3NORM: 4.321%
+VMAF:              2.148%
+Enc time:          37.8%
+Dec time:          102.5%
+
+Tile Column:       4
+Tile Row:          3
+PSNR:              3.583%
+SSIM:              4.08%
+DSSIM:             5.144%
+SSIMULACRA:        5.392%
+BUTTERAUGLI:       0.558%
+BUTTERAUGLI_3NORM: 4.321%
+VMAF:              2.148%
+Enc time:          37.4%
+Dec time:          102.5%
+
+Tile Column:       4
+Tile Row:          4
+PSNR:              3.583%
+SSIM:              4.08%
+DSSIM:             5.144%
+SSIMULACRA:        5.392%
+BUTTERAUGLI:       0.558%
+BUTTERAUGLI_3NORM: 4.321%
+VMAF:              2.148%
+Enc time:          37.6%
+Dec time:          105.4%
+
+Tile Column:       4
+Tile Row:          5
+PSNR:              3.583%
+SSIM:              4.08%
+DSSIM:             5.144%
+SSIMULACRA:        5.392%
+BUTTERAUGLI:       0.558%
+BUTTERAUGLI_3NORM: 4.321%
+VMAF:              2.148%
+Enc time:          37.9%
+Dec time:          102.5%
+
+Tile Column:       5
+Tile Row:          0
+PSNR:              1.47%
+SSIM:              1.225%
+DSSIM:             1.702%
+SSIMULACRA:        2.57%
+BUTTERAUGLI:       3.396%
+BUTTERAUGLI_3NORM: 2.364%
+VMAF:              -0.693%
+Enc time:          54.7%
+Dec time:          107.4%
+
+Tile Column:       5
+Tile Row:          1
+PSNR:              3.583%
+SSIM:              4.08%
+DSSIM:             5.144%
+SSIMULACRA:        5.392%
+BUTTERAUGLI:       0.558%
+BUTTERAUGLI_3NORM: 4.321%
+VMAF:              2.148%
+Enc time:          37.6%
+Dec time:          103.6%
+
+Tile Column:       5
+Tile Row:          2
+PSNR:              3.583%
+SSIM:              4.08%
+DSSIM:             5.144%
+SSIMULACRA:        5.392%
+BUTTERAUGLI:       0.558%
+BUTTERAUGLI_3NORM: 4.321%
+VMAF:              2.148%
+Enc time:          37.7%
+Dec time:          103.4%
+
+Tile Column:       5
+Tile Row:          3
+PSNR:              3.583%
+SSIM:              4.08%
+DSSIM:             5.144%
+SSIMULACRA:        5.392%
+BUTTERAUGLI:       0.558%
+BUTTERAUGLI_3NORM: 4.321%
+VMAF:              2.148%
+Enc time:          37.5%
+Dec time:          105.2%
+
+Tile Column:       5
+Tile Row:          4
+PSNR:              3.583%
+SSIM:              4.08%
+DSSIM:             5.144%
+SSIMULACRA:        5.392%
+BUTTERAUGLI:       0.558%
+BUTTERAUGLI_3NORM: 4.321%
+VMAF:              2.148%
+Enc time:          37.5%
+Dec time:          104.7%
+
+Tile Column:       5
+Tile Row:          5
+PSNR:              3.583%
+SSIM:              4.08%
+DSSIM:             5.144%
+SSIMULACRA:        5.392%
+BUTTERAUGLI:       0.558%
+BUTTERAUGLI_3NORM: 4.321%
+VMAF:              2.148%
+Enc time:          38.0%
+Dec time:          104.6%
+
+File:  08.jpg
+Tile Column:       0
+Tile Row:          1
+PSNR:              0.382%
+SSIM:              0.852%
+DSSIM:             0.579%
+SSIMULACRA:        0.228%
+BUTTERAUGLI:       2.762%
+BUTTERAUGLI_3NORM: 0.101%
+VMAF:              0.776%
+Enc time:          98.0%
+Dec time:          102.1%
+
+Tile Column:       0
+Tile Row:          2
+PSNR:              0.707%
+SSIM:              1.385%
+DSSIM:             1.166%
+SSIMULACRA:        0.46%
+BUTTERAUGLI:       6.993%
+BUTTERAUGLI_3NORM: 1.027%
+VMAF:              1.494%
+Enc time:          93.4%
+Dec time:          101.5%
+
+Tile Column:       0
+Tile Row:          3
+PSNR:              1.184%
+SSIM:              2.143%
+DSSIM:             2.021%
+SSIMULACRA:        1.527%
+BUTTERAUGLI:       7.625%
+BUTTERAUGLI_3NORM: 1.375%
+VMAF:              2.175%
+Enc time:          92.1%
+Dec time:          100.2%
+
+Tile Column:       0
+Tile Row:          4
+PSNR:              2.397%
+SSIM:              4.01%
+DSSIM:             3.761%
+SSIMULACRA:        2.729%
+BUTTERAUGLI:       9.532%
+BUTTERAUGLI_3NORM: 3.21%
+VMAF:              2.927%
+Enc time:          92.0%
+Dec time:          100.6%
+
+Tile Column:       0
+Tile Row:          5
+PSNR:              2.397%
+SSIM:              4.01%
+DSSIM:             3.761%
+SSIMULACRA:        2.729%
+BUTTERAUGLI:       9.532%
+BUTTERAUGLI_3NORM: 3.21%
+VMAF:              2.927%
+Enc time:          91.7%
+Dec time:          101.5%
+
+Tile Column:       1
+Tile Row:          0
+PSNR:              0.324%
+SSIM:              0.453%
+DSSIM:             0.32%
+SSIMULACRA:        0.695%
+BUTTERAUGLI:       6.06%
+BUTTERAUGLI_3NORM: 0.373%
+VMAF:              -0.155%
+Enc time:          92.8%
+Dec time:          100.9%
+
+Tile Column:       1
+Tile Row:          1
+PSNR:              0.923%
+SSIM:              1.439%
+DSSIM:             1.255%
+SSIMULACRA:        1.093%
+BUTTERAUGLI:       2.653%
+BUTTERAUGLI_3NORM: 0.712%
+VMAF:              0.727%
+Enc time:          91.8%
+Dec time:          100.4%
+
+Tile Column:       1
+Tile Row:          2
+PSNR:              1.425%
+SSIM:              2.201%
+DSSIM:             2.108%
+SSIMULACRA:        1.734%
+BUTTERAUGLI:       7.189%
+BUTTERAUGLI_3NORM: 1.729%
+VMAF:              0.93%
+Enc time:          92.0%
+Dec time:          100.4%
+
+Tile Column:       1
+Tile Row:          3
+PSNR:              1.91%
+SSIM:              3.21%
+DSSIM:             3.004%
+SSIMULACRA:        2.801%
+BUTTERAUGLI:       7.863%
+BUTTERAUGLI_3NORM: 2.331%
+VMAF:              1.298%
+Enc time:          91.2%
+Dec time:          100.2%
+
+Tile Column:       1
+Tile Row:          4
+PSNR:              3.493%
+SSIM:              5.272%
+DSSIM:             4.97%
+SSIMULACRA:        4.059%
+BUTTERAUGLI:       12.158%
+BUTTERAUGLI_3NORM: 4.061%
+VMAF:              3.867%
+Enc time:          91.8%
+Dec time:          100.0%
+
+Tile Column:       1
+Tile Row:          5
+PSNR:              3.493%
+SSIM:              5.272%
+DSSIM:             4.97%
+SSIMULACRA:        4.059%
+BUTTERAUGLI:       12.158%
+BUTTERAUGLI_3NORM: 4.061%
+VMAF:              3.867%
+Enc time:          91.8%
+Dec time:          101.4%
+
+Tile Column:       2
+Tile Row:          0
+PSNR:              0.715%
+SSIM:              1.079%
+DSSIM:             1.014%
+SSIMULACRA:        1.04%
+BUTTERAUGLI:       6.014%
+BUTTERAUGLI_3NORM: 0.871%
+VMAF:              0.318%
+Enc time:          89.2%
+Dec time:          100.3%
+
+Tile Column:       2
+Tile Row:          1
+PSNR:              1.412%
+SSIM:              2.024%
+DSSIM:             1.985%
+SSIMULACRA:        1.599%
+BUTTERAUGLI:       8.45%
+BUTTERAUGLI_3NORM: 1.745%
+VMAF:              0.937%
+Enc time:          89.9%
+Dec time:          101.3%
+
+Tile Column:       2
+Tile Row:          2
+PSNR:              2.145%
+SSIM:              3.061%
+DSSIM:             3.056%
+SSIMULACRA:        2.817%
+BUTTERAUGLI:       13.916%
+BUTTERAUGLI_3NORM: 3.08%
+VMAF:              2.301%
+Enc time:          89.5%
+Dec time:          100.4%
+
+Tile Column:       2
+Tile Row:          3
+PSNR:              2.837%
+SSIM:              4.527%
+DSSIM:             4.09%
+SSIMULACRA:        3.627%
+BUTTERAUGLI:       11.807%
+BUTTERAUGLI_3NORM: 3.515%
+VMAF:              2.446%
+Enc time:          89.5%
+Dec time:          99.4%
+
+Tile Column:       2
+Tile Row:          4
+PSNR:              4.751%
+SSIM:              7.035%
+DSSIM:             6.829%
+SSIMULACRA:        5.744%
+BUTTERAUGLI:       16.265%
+BUTTERAUGLI_3NORM: 5.775%
+VMAF:              5.957%
+Enc time:          89.5%
+Dec time:          100.5%
+
+Tile Column:       2
+Tile Row:          5
+PSNR:              4.751%
+SSIM:              7.035%
+DSSIM:             6.829%
+SSIMULACRA:        5.744%
+BUTTERAUGLI:       16.265%
+BUTTERAUGLI_3NORM: 5.775%
+VMAF:              5.957%
+Enc time:          89.8%
+Dec time:          101.4%
+
+Tile Column:       3
+Tile Row:          0
+PSNR:              1.49%
+SSIM:              2.256%
+DSSIM:             1.99%
+SSIMULACRA:        1.663%
+BUTTERAUGLI:       18.646%
+BUTTERAUGLI_3NORM: 2.483%
+VMAF:              1.682%
+Enc time:          93.1%
+Dec time:          100.6%
+
+Tile Column:       3
+Tile Row:          1
+PSNR:              2.408%
+SSIM:              3.596%
+DSSIM:             3.112%
+SSIMULACRA:        2.401%
+BUTTERAUGLI:       13.065%
+BUTTERAUGLI_3NORM: 2.477%
+VMAF:              3.087%
+Enc time:          91.3%
+Dec time:          100.4%
+
+Tile Column:       3
+Tile Row:          2
+PSNR:              3.233%
+SSIM:              4.927%
+DSSIM:             4.372%
+SSIMULACRA:        3.067%
+BUTTERAUGLI:       19.606%
+BUTTERAUGLI_3NORM: 4.187%
+VMAF:              2.69%
+Enc time:          90.0%
+Dec time:          101.0%
+
+Tile Column:       3
+Tile Row:          3
+PSNR:              4.147%
+SSIM:              6.213%
+DSSIM:             5.713%
+SSIMULACRA:        4.131%
+BUTTERAUGLI:       12.878%
+BUTTERAUGLI_3NORM: 4.991%
+VMAF:              5.227%
+Enc time:          90.4%
+Dec time:          99.9%
+
+Tile Column:       3
+Tile Row:          4
+PSNR:              6.7%
+SSIM:              9.675%
+DSSIM:             9.061%
+SSIMULACRA:        6.946%
+BUTTERAUGLI:       18.101%
+BUTTERAUGLI_3NORM: 8.297%
+VMAF:              8.16%
+Enc time:          90.2%
+Dec time:          102.2%
+
+Tile Column:       3
+Tile Row:          5
+PSNR:              6.7%
+SSIM:              9.675%
+DSSIM:             9.061%
+SSIMULACRA:        6.946%
+BUTTERAUGLI:       18.101%
+BUTTERAUGLI_3NORM: 8.297%
+VMAF:              8.16%
+Enc time:          90.0%
+Dec time:          100.8%
+
+Tile Column:       4
+Tile Row:          0
+PSNR:              2.045%
+SSIM:              3.129%
+DSSIM:             2.885%
+SSIMULACRA:        3.209%
+BUTTERAUGLI:       6.26%
+BUTTERAUGLI_3NORM: 2.114%
+VMAF:              3.254%
+Enc time:          95.3%
+Dec time:          100.5%
+
+Tile Column:       4
+Tile Row:          1
+PSNR:              2.992%
+SSIM:              4.601%
+DSSIM:             4.23%
+SSIMULACRA:        3.576%
+BUTTERAUGLI:       9.203%
+BUTTERAUGLI_3NORM: 3.296%
+VMAF:              3.406%
+Enc time:          90.0%
+Dec time:          102.3%
+
+Tile Column:       4
+Tile Row:          2
+PSNR:              4.358%
+SSIM:              6.059%
+DSSIM:             5.689%
+SSIMULACRA:        4.704%
+BUTTERAUGLI:       13.818%
+BUTTERAUGLI_3NORM: 4.957%
+VMAF:              5.072%
+Enc time:          89.8%
+Dec time:          101.2%
+
+Tile Column:       4
+Tile Row:          3
+PSNR:              5.019%
+SSIM:              7.449%
+DSSIM:             7.0%
+SSIMULACRA:        5.853%
+BUTTERAUGLI:       8.876%
+BUTTERAUGLI_3NORM: 5.404%
+VMAF:              5.942%
+Enc time:          90.4%
+Dec time:          100.0%
+
+Tile Column:       4
+Tile Row:          4
+PSNR:              8.012%
+SSIM:              11.737%
+DSSIM:             10.893%
+SSIMULACRA:        8.887%
+BUTTERAUGLI:       17.04%
+BUTTERAUGLI_3NORM: 9.319%
+VMAF:              11.239%
+Enc time:          90.8%
+Dec time:          100.6%
+
+Tile Column:       4
+Tile Row:          5
+PSNR:              8.012%
+SSIM:              11.737%
+DSSIM:             10.893%
+SSIMULACRA:        8.887%
+BUTTERAUGLI:       17.04%
+BUTTERAUGLI_3NORM: 9.319%
+VMAF:              11.239%
+Enc time:          90.9%
+Dec time:          100.4%
+
+Tile Column:       5
+Tile Row:          0
+PSNR:              3.447%
+SSIM:              4.571%
+DSSIM:             4.718%
+SSIMULACRA:        4.058%
+BUTTERAUGLI:       15.456%
+BUTTERAUGLI_3NORM: 4.379%
+VMAF:              4.004%
+Enc time:          91.3%
+Dec time:          100.7%
+
+Tile Column:       5
+Tile Row:          1
+PSNR:              4.957%
+SSIM:              6.645%
+DSSIM:             6.39%
+SSIMULACRA:        5.569%
+BUTTERAUGLI:       9.425%
+BUTTERAUGLI_3NORM: 5.216%
+VMAF:              5.007%
+Enc time:          91.4%
+Dec time:          100.4%
+
+Tile Column:       5
+Tile Row:          2
+PSNR:              6.445%
+SSIM:              9.038%
+DSSIM:             8.543%
+SSIMULACRA:        7.415%
+BUTTERAUGLI:       10.864%
+BUTTERAUGLI_3NORM: 6.938%
+VMAF:              6.571%
+Enc time:          91.5%
+Dec time:          101.9%
+
+Tile Column:       5
+Tile Row:          3
+PSNR:              8.002%
+SSIM:              11.523%
+DSSIM:             10.758%
+SSIMULACRA:        8.654%
+BUTTERAUGLI:       11.92%
+BUTTERAUGLI_3NORM: 8.836%
+VMAF:              9.657%
+Enc time:          91.4%
+Dec time:          101.3%
+
+Tile Column:       5
+Tile Row:          4
+PSNR:              11.569%
+SSIM:              17.908%
+DSSIM:             16.418%
+SSIMULACRA:        12.967%
+BUTTERAUGLI:       20.674%
+BUTTERAUGLI_3NORM: 14.567%
+VMAF:              15.717%
+Enc time:          92.7%
+Dec time:          101.8%
+
+Tile Column:       5
+Tile Row:          5
+PSNR:              11.569%
+SSIM:              17.908%
+DSSIM:             16.418%
+SSIMULACRA:        12.967%
+BUTTERAUGLI:       20.674%
+BUTTERAUGLI_3NORM: 14.567%
+VMAF:              15.717%
+Enc time:          92.7%
+Dec time:          102.1%
+
