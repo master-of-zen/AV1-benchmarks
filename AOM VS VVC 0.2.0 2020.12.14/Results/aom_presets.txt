@@ -1,0 +1,43 @@
+[('aom', 0), ('aom', 1), ('aom', 2), ('aom', 3), ('aom', 4), ('aom', 5), ('aom', 6)]
+aom 0 aom 1 -3.435
+aom 1 aom 2 -3.382
+aom 2 aom 3 -7.27
+aom 3 aom 4 -2.756
+aom 4 aom 5 -16.712
+aom 5 aom 6 -3.904
+AOM 6 -> AOM 5 
+
+Vmaf    BD rate: -3.904 %
+PSNR    BD rate: -4.198 %
+SSIM    BD rate: -4.0 %
+
+AOM 5 -> AOM 4 
+
+Vmaf    BD rate: -16.712 %
+PSNR    BD rate: -12.293 %
+SSIM    BD rate: -10.334 %
+
+AOM 4 -> AOM 3 
+
+Vmaf    BD rate: -2.756 %
+PSNR    BD rate: -3.636 %
+SSIM    BD rate: -0.244 %
+
+AOM 3 -> AOM 2 
+
+Vmaf    BD rate: -7.27 %
+PSNR    BD rate: -4.736 %
+SSIM    BD rate: -3.438 %
+
+AOM 2 -> AOM 1 
+
+Vmaf    BD rate: -3.382 %
+PSNR    BD rate: -1.023 %
+SSIM    BD rate: -1.022 %
+
+AOM 1 -> AOM 0 
+
+Vmaf    BD rate: -3.435 %
+PSNR    BD rate: -1.686 %
+SSIM    BD rate: -5.267 %
+
